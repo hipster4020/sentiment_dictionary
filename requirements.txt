@@ -1,0 +1,13 @@
+requests
+glances
+tqdm
+pandas
+sqlalchemy
+webdriver_manager
+hydra-core==1.0.0
+json5==0.9.5
+logging3==0.0.2
+pika==1.2.0
+PyMySQL==1.0.2
+konlpy
+swifter

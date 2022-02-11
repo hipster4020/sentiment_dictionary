@@ -1,0 +1,2 @@
+# every 3:00 am
+0 3 * * * bash /run_batch.sh

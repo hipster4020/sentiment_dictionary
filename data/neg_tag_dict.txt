@@ -1,0 +1,5312 @@
+가/VV+EC 념/UNKNOWN 하/VV 다/EC
+가격/NNG 상승/NNG
+가격/NNG 인상/NNG
+가꾸/VV 러/EC 뜨리/VV 다/EC
+가꾸/VV 러/EC 트/VV 리다/EC
+가난/NNG
+가난/NNG 설음/NNG
+가난/NNG 하/XSA 게/EC
+가난/NNG 하/XSA 고/EC
+가난/NNG 하/XSA 다/EC
+가난/NNG 하/XSA 여/EC
+가난/NNG 한/XSA+ETM
+가난뱅이/NNG
+가난살이/NNG
+가난히/MAG
+가년/XR 스럽/XSA 다/EC
+가녕/NNP 스럽/XSA 다/EC
+가닐가닐/MAG 하/VV 다/EC
+가당찮/VA 다/EC
+가당찮이/MAG
+가두/VV 거나/EC
+가두/VV 다/EC
+가량/NNG 맞/VV 고/EC
+가량/NNG 맞/VV 다/EC
+가량/NNG 맞/VV 은/ETM
+가려운/VA+ETM
+가련/XR 하/XSA 게/EC
+가련/XR 하/XSA 다/EC
+가련/XR 한/XSA+ETM
+가렵/VA 고/EC
+가렵/VA 다/EC
+가로막/VV 다/EC
+가로막/VV 아서/EC
+가로채/VV 다/EC
+가로채/VV 서/EC
+가로채/VV 어/EC
+가로챈/VV+ETM
+가마득/XR 하/XSA 다/EC
+가마득/XR 한/XSA+ETM
+가빠/VA+EC
+가쁘/VA 게/EC
+가쁘/VA 고/EC
+가쁘/VA 다/EC
+가쁜/VA+ETM
+가살/NNG 스럽/XSA 다/EC
+가소/NNG 롭/XSA 게/EC
+가소/NNG 롭/XSA 다/EC
+가슴앓이/NNG
+가엽/VA 다/EC
+가엾/VA 게/EC
+가엾/VA 고/EC
+가엾/VA 다/EC
+가엾/VA 은/ETM
+가위눌리/VV 다/EC
+가증/NNG 맞/VV 다/EC
+가증/XR 스럽/XSA 다/EC
+가짜/NNG
+가책/NNG
+가치/NNG 없/VA 는/ETM
+가치작/XR 거리/XSV 는/ETM
+가치작/XR 거리/XSV 다/EC
+가탈/XR 스럽/XSA 다/EC
+가혹/NNG 하/XSV 게/EC
+간사/NNG 하/XSV 고/EC
+간사/NNG 하/XSV 다/EC
+간사/XR 스럽/XSA 게/EC
+간사/XR 한/XSA+ETM
+간섭/NNG 받/VV 고/EC
+간섭/NNG 하/XSV 거나/EC
+간섭/NNG 하/XSV 게/EC
+간섭/NNG 하/XSV 고/EC
+간섭/NNG 하/XSV 는/ETM
+간섭/NNG 하/XSV 다/EC
+간섭/NNG 하/XSV 여/EC
+간신히/MAG 짜내/VV 는/ETM
+간지러운/VA+ETM
+간지러워서/VA+EC
+간지럽/VA 게/EC
+간지럽/VA 고/EC
+간지럽/VA 다/EC
+간직/NNG 하/XSV 지/EC 아니하/VX 고/EC
+간질/NNG
+간질/NNG 하/XSA 다/EC
+간질간질/MAG 하/VV 다/EC
+간질간질/MAG 한/XSA+ETM
+갈강병/NNG 균/NNG
+갈등/NNG
+갈라서/VV 다/EC
+갈라지/VV 는/ETM
+갈라지/VV 다/EC
+갈색굳음병/NNG
+갈증/NNG
+갈팡질팡/MAG
+갈팡질팡/MAG 하/VV 다/EC
+갈팡질팡/MAG 하/VV 며/EC
+갈피/NNG 잡/VV 을/ETM 수/NNB 없/VA 다/EC
+갈피/NNG 잡/VV 지/EC 못하/VX 고/EC
+갈피/NNG 잡/VV 지/EC 못하/VX 는/ETM
+갈피/NNG 잡/VV 지/EC 못하/VX 다/EC
+감각/NNG 둔하/VV 고/EC
+감각/NNG 마비/NNG 되/XSV 고/EC
+감감히/MAG
+감금/NNG
+감기/NNG
+감기/VV 나/EC
+감병/NNG
+감옥/NNG
+감정/NNG 거칠어져/VV+EC
+감정/NNG 건드려/VV+EC
+감정/NNG 불화/NNG
+감정/NNG 사납/VA 게/EC
+감질나/VA 다/EC
+감추/VV 고/EC
+감추/VV 다/EC
+갑갑/XR
+갑갑/XR 궁금/XR 하/XSA 다/EC
+갑갑/XR 하/XSA 고/EC
+갑갑/XR 하/XSA 다/EC
+갑갑/XR 한/XSA+ETM
+갑갑/XR 할/XSA+ETM
+강간죄/NNG
+강개무량/NNG
+강개무량/NNG 하/XSV 다/EC
+강등/NNG
+강박/NNP
+강제/NNG
+강제/NNG 적/XSN
+강탈/NNG
+강탈/NNG 하/XSV 다/EC
+강퇴/NNG
+갖추/VV 지/EC 않/VX 고/EC
+같/VA 잖은/EC
+같잖/VA 다/EC
+같잖/VA 아서/EC
+개으름/NNG
+개자식/NNG
+개짓/NNG 하/XSV 다/EC
+거/NP 들/XSN 먹이/VV 다/EC
+거/NP 볍/UNKNOWN 게/EC
+거꾸러뜨리/VV 다/EC
+거드럭거드럭/MAG
+거드럭거리/VV 다/EC
+거들먹거들먹/MAG
+거들먹거리/VV 다/EC
+거들먹대/VV 다/EC
+거리끼/VV 다/EC
+거리끼/VV 어/EC
+거만/NNG
+거만/XR 스럽/XSA 게/EC
+거만/XR 스럽/XSA 다/EC
+거만/XR 하/XSA 게/EC
+거만/XR 하/XSA 고/EC
+거만/XR 하/XSA 다/EC
+거만/XR 한/XSA+ETM
+거부/NNG 감/XSN
+거부/NNG 하/XSV 거나/EC
+거부/NNG 하/XSV 다/EC
+거북/NNG 할/XSV+ETM
+거북/NNG 힌/NNP
+거북/XR 스럽/XSA 게/EC
+거북/XR 스럽/XSA 다/EC
+거북/XR 하/XSA 거나/EC
+거북/XR 하/XSA 게/EC
+거북/XR 하/XSA 고/EC
+거북/XR 하/XSA 다/EC
+거북/XR 한/XSA+ETM
+거북/XR 함/XSA+ETN
+거세/VA 고/EC
+거세/VA 다/EC
+거슬려/VV+EC
+거슬리/VV 거나/EC
+거슬리/VV 게/EC
+거슬리/VV 는/ETM
+거슬리/VV 다/EC
+거역/NNG 하/XSV 다/EC
+거역/NNG 함/XSV+ETN
+거절/NNG
+거절/NNG 하/XSV 거나/EC
+거절/NNG 하/XSV 게/EC
+거절/NNG 하/XSV 는/ETM
+거절/NNG 하/XSV 다/EC
+거짓/NNG
+거짓말/NNG
+거추장/XR 스러워서/XSA+EC
+거추장/XR 스럽/XSA 거나/EC
+거추장/XR 스럽/XSA 게/EC
+거추장/XR 스럽/XSA 다/EC
+거추장스레/MAG
+거치적거리/VV 는/ETM
+거치적거치적/MAG
+거치적거치적/MAG 하/VV 다/EC
+거친/VA+ETM
+거칠/VA 거나/EC
+거칠/VA 게/EC
+거칠/VA 고/EC
+거칠/VA 다/EC
+거칠/VA 면서/EC
+거칠/VA 어/EC
+거칠/VA 어/EC 져/VX+EC
+걱정/NNG
+걱정/NNG 되/XSV 거나/EC
+걱정/NNG 스러워서/XSA+EC
+걱정/NNG 스럽/XSA 거나/EC
+걱정/NNG 스럽/XSA 다/EC
+걱정/NNG 인/VCP+ETM
+걱정/NNG 하/XSV 기/ETN
+걱정/NNG 하/XSV 는/ETM
+걱정/NNG 하/XSV 다/EC
+걱정거리/NNG
+건달/NNG
+건둥반둥/MAG 하/VV 다/EC
+건들거리/VV 고/EC
+건들거리/VV 다/EC
+건들건들/MAG
+건들대/VV 다/EC
+건망증/NNG
+건방져/VA+EC
+건방지/VA 게/EC
+건방지/VA 네/EC
+건방지/VA 다/EC
+건방지/VA 며/EC
+건방진/VA+ETM
+건방짐/VA+ETN
+건성/NNG
+걸리/VV 거나/EC
+걸리/VV 다/EC
+걸리적대/VV 다/EC
+걸핏/MAG 하/VV 면/EC
+검질기/VA 게/EC
+겁/NNG
+겁/NNG 나/VV 거나/EC
+겁/NNG 나/VV 서/EC
+겁/NNG 내/VV 거나/EC
+겁/NNG 내/VV 다/EC
+겁/NNG 많/VA 고/EC
+겁/NNG 많/VA 다/EC
+겁/NNG 많/VA 아/EC
+겁/NNG 많/VA 은/ETM
+겁/NNG 많/VA 음/ETN
+겁/NNG 먹/VV 거나/EC
+겁/NNG 먹/VV 다/EC
+겁/NNG 먹/VV 어/EC
+겁/NNG 주/VV 며/EC
+겁나/VV 게/EC
+겁나/VV 다/EC
+겁내/VV 다/EC
+겁쟁이/NNG
+겉/NNG 그럴듯한/VA+ETM+NNB+XSA+ETM
+겉치레/NNG
+게걸/XR 스럽/XSA 게/EC
+게우/VV 는/ETM
+게우/VV 다/EC
+게울/VV+ETM 듯이/NNB
+게워/VV+EC
+게워/VV+EC 내/VX 다/EC
+게으르/VA 거나/EC
+게으르/VA 게/EC
+게으르/VA 고/EC
+게으르/VA 다/EC
+게으름/NNG
+게을러빠지/VA 다/EC
+게을러터지/VA 다/EC
+겨를/NNB 없/VA 음/ETN
+겨우/MAG
+겨우겨우/MAG
+겨운/VA+ETM
+격노/NNG
+격노/NNG 하/XSA 다/EC
+격분/NNG
+격분/NNG 하/XSA 다/EC
+격하/NNG 시키/XSV 다/EC
+격하/VA 게/EC
+격하/VA 다/EC
+격한/VA+ETM
+결막염/NNG
+결석/NNG
+결석/NNG 하/XSV 다/EC
+결점/NNG
+결핍/NNG
+결핍증/NNG
+결함/NNG
+결핵/NNG
+겸연쩍/VA 고/EC
+겸연쩍/VA 다/EC
+겹/VA 거나/EC
+겹/VA 게/EC
+경련/NNG
+경망/NNG 스러우/XSA 며/EC
+경망/NNG 스러운/XSA+ETM
+경망/NNG 스럽/XSA 게/EC
+경망/NNG 스럽/XSA 고/EC
+경망/NNG 스럽/XSA 다/EC
+경망/NNG 하/XSV 게/EC
+경망/NNG 하/XSV 다/EC
+경망/NNG 한/XSA+ETM
+경멸/NNG
+경멸/NNG 하/XSA 다/EC
+경멸/NNG 히/NNG
+경박/XR 스럽/XSA 게/EC
+경박/XR 하/XSA 게/EC
+경박/XR 하/XSA 다/EC
+경박/XR 한/XSA+ETM
+경상/NNG
+경솔/NNG 하/XSA 게/EC
+경솔/NNG 하/XSA 고/EC
+경솔/NNG 하/XSA 다/EC
+경솔/NNG 한/XSA+ETM
+경악/NNG 하/XSV 다/EC
+경험/NNG 적/VA 거나/EC
+경험/NNG 적/VA 다/EC
+경황/NNG 없/VA 다/EC
+경황/NNG 없/VA 어/EC
+고까/NNG 워/NNG 하/XSV 는/ETM
+고까/NNG 워/NNG 하/XSV 다/EC
+고깝/VA 게/EC
+고깝/VA 다/EC
+고난/NNG
+고단/XR 하/XSA 다/EC
+고단/XR 하/XSA 여/EC
+고달프/VA 다/EC
+고독/NNG 하/XSA 다/EC
+고독/NNG 한/XSA+ETM
+고되/VA 다/EC
+고름/NNG
+고름집/NNG
+고리/VA 게/EC
+고리타분/XR 하/XSA 다/EC
+고부라져/VV+EC
+고부라지/VV 다/EC
+고비/NNG
+고생/NNG
+고생/NNG 스러운/XSA+ETM
+고생/NNG 스럽/XSA 다/EC
+고생/NNG 하/XSA 거나/EC
+고생/NNG 하/XSA 다/EC
+고약/NNG 하/XSV 게/EC
+고약/NNG 하/XSV 다/EC
+고약/NNG 해서/XSV+EC
+고약/XR 함/XSA+ETN
+고열/NNG
+고자/NNG 질/XSN 하/XSV 다/EC
+고자/NNG 질함/NNG
+고작/MAG
+고장나/VV 다/EC
+고지혈증/NNG
+고질병/NNG
+고집/NNG
+고집/NNG 스레/XSA+EC
+고충/NNG
+고타분히/MAG
+고통/NNG
+고통/NNG 라는/ETM
+고통/NNG 받/VV 는/ETM
+고통/NNG 받/VV 다/EC
+고통/NNG 스러운/XSA+ETM
+고통/NNG 스럽/XSA 거나/EC
+고통/NNG 스럽/XSA 게/EC
+고통/NNG 스럽/XSA 다/EC
+고한/NNG
+고함/NNG
+고혈압/NNG
+곤궁/NNG 하/XSA 고/EC
+곤궁/NNG 하/XSA 다/EC
+곤궁/NNG 하/XSA 여/EC
+곤궁/NNG 함/XSA+ETN
+곤란/NNG
+곤란/NNG 하/XSA 게/EC
+곤란/NNG 하/XSA 다/EC
+곤란/NNG 하/XSA 여/EC 지/VX 는/ETM
+곤란/NNG 한/XSA+ETM
+곤욕/NNG
+곤욕/NNG 스럽/XSA 다/EC
+곤장/NNG
+곤혹/NNG 스러운/XSA+ETM
+곤혹/NNG 스럽/XSA 다/EC
+골/NNG 나/VV 게/EC
+골나/VV 다/EC
+골리/VV 는/ETM
+골치/NNG 아프/VA 다/EC
+곪/VV 게/EC
+곪/VV 느라고/EC
+곪/VV 다/EC
+곪/VV 은/ETM
+곯/VA 다/EC
+곯/VA 아서/EC
+곯/VA 은/ETM
+곯려/VV+EC
+곯려/VV+EC 주/VX 다/EC
+곯리/VV 거나/EC
+곰팡내/NNG
+곰팡이/NNG
+곱실/MAG 대/VV 다/EC
+공갈/NNG
+공격/NNG 받/VV 다/EC
+공격/NNG 하/XSV 다/EC
+공교/XR 롭/XSA 고/EC
+공범자/NNG
+공포/NNG
+공포감/NNG
+공포증/NNG
+공허/XR 하/XSA 다/EC
+공허/XR 한/XSA+ETM
+공황/NNG 장애/NNG
+공황상태/NNG
+과/NNG
+과격/XR 하/XSA 다/EC
+과격/XR 한/XSA+ETM
+과금/NNG
+과대망상/NNG
+과도/NNG 하/XSV 게/EC
+과로/NNG
+과식/NNG
+과음/NNG
+과음/NNG 하/XSV 거나/EC
+과음/NNG 하/XSV 다/EC
+과장/NNG 되/XSV 다/EC
+과장/NNG 되/XSV 어/EC
+과장/NNG 된/XSV+ETM
+과체중/NNG
+과하/VA 다/EC
+관계없/VA 는/ETM
+관심/NNG 병/NNG
+관절염/NNG
+괄시/NNG
+괄시/NNG 하/XSV 다/EC
+광견병/NNG
+광탈/NNG
+괘씸/XR 하/XSA 고/EC
+괘씸/XR 하/XSA 다/EC
+괘씸/XR 한/XSA+ETM
+괴로운/VA+ETM
+괴로울/VA+ETM
+괴로움/NNG
+괴로워/VA+EC
+괴로워/VA+EC 하/VV 는/ETM
+괴로워/VA+EC 하/VV 다/EC
+괴로워/VA+EC 하/VV 며/EC
+괴롭/VA 거나/EC
+괴롭/VA 게/EC
+괴롭/VA 고/EC
+괴롭/VA 다/EC
+괴롭/VA 히다/EC
+괴롭히/VV 거나/EC
+괴롭히/VV 는/ETM
+괴멸/NNG
+괴멸/NNG 되/XSV 다/EC
+괴멸/NNG 하/XSV 다/EC
+괴물/NNG
+괴사/NNG
+괴상/NNG 하/XSV 게/EC
+괴상/NNG 하/XSV 고/EC
+괴상/NNG 한/XSA+ETM
+괴상/NNG 한/XSA+ETM 일/NNG
+괴이/XR 하/XSA 게/EC
+괴이쩍/VA 게/EC
+괴이쩍/VA 다/EC
+괴이쩍/VA 은/ETM
+교도소/NNG
+교만/NNG
+교만/NNG 하/XSA 게/EC
+교만/NNG 하/XSA 고/EC
+교만/NNG 하/XSA 다/EC
+교만/NNG 하/XSA 여/EC
+교만/NNG 함/XSA+ETN
+교묘/XR 하/XSA 고/EC
+교묘/XR 하/XSA 다/EC
+교묘히/MAG
+교활/NNG 하/XSV 고/EC
+교활/NNG 하/XSV 다/EC
+교활/XR 한/XSA+ETM
+구두쇠/NNG
+구리/VA 게/EC
+구리/VA 다/EC
+구박/NNG
+구박/NNG 하/XSV 거나/EC
+구박/NNG 하/XSV 다/EC
+구속/NNG
+구속/NNG 하/XSV 다/EC
+구속/NNG 함/XSV+ETN
+구슬/NNG 퍼질/VV+ETM
+구슬프/VA 고/EC
+구슬프/VA 다/EC
+구슬피/MAG
+구역/NNG 나려/NNG
+구역/NNG 날/VV+ETM 듯/NNB 하/XSA 다/EC
+구역/NNG 질/XSN
+구역/NNG 질/XSN 나/NP
+구역/NNG 질/XSN 나/VV 다/EC
+구역/NNG 질/XSN 하/XSV 다/EC
+구차/NNG 하/XSV 여/EC
+구차/XR 스러운/XSA+ETM
+구차/XR 스럽/XSA 게/EC
+구토/NNG
+구토/NNP
+군색/XR 함/XSA+ETN
+군소리/NNG
+굳/VA 다/EC
+굳/VA 어서/EC
+굳/VA 은/ETM
+굳어지/VV 다/EC
+굴복/NNG 시킬/XSV+ETM
+굴복/NNG 시킴/XSV+ETN
+굴욕/NNG
+굴욕/NNG 적/XSN
+굴욕감/NNG
+굶/VV 게/EC
+굶/VV 는/ETM
+굶/VV 다/EC
+굶주려서/VV+EC
+굶주리/VV 고/EC
+굶주리/VV 다/EC
+굶주린/VV+ETM
+굼뜨/VA 게/EC
+굼뜨/VA 고/EC
+굼뜨/VA 다/EC
+굼뜬/VA+ETM
+굽/VV 신/EP+ETM
+굽신거리/VV 다/EC
+굽신굽신/MAG
+굽신굽신/MAG 하/VV 다/EC
+굽신대/VV 다/EC
+굽신하/VV 다/EC
+굽실/MAG
+굽실/MAG 하/VV 다/EC
+굽실거리/VV 다/EC
+굽실굽실/MAG
+굽실대/VV 다/EC
+궁금/XR 하/XSA 다/EC
+궁상/NNG
+궁상/NNG 스러운/XSA+ETM
+궁상/NNG 스럽/XSA 다/EC
+궁상맞/VA 다/EC
+궁색/NNG 하/XSA 게/EC
+궁색/NNG 하/XSA 다/EC
+궁색/NNG 하/XSA 여/EC
+궁핍/NNG 하/XSA 다/EC
+궁핍히/MAG
+궁하/VA 고/EC
+궁하/VA 다/EC
+궂/VA 게/EC
+궂/VA 다/EC
+권태/NNG
+권태/NNG 롭/XSA 다/EC
+권태감/NNG
+권태기/NNG
+권태로이/MAG
+귀머거리/NNG
+귀먹/VV 은/ETM
+귀양/NNG
+귀차/NNG 니즘/NNG
+귀찮/VA 거나/EC
+귀찮/VA 게/EC
+귀찮/VA 고/EC
+귀찮/VA 다/EC
+귀찮/VA 아/EC 하/VV 도록/EC
+귀찮/VA 으면서도/EC
+귀찮/VA 은/ETM
+귀찮/VA 을/ETM
+귀찮/VA 음/ETN
+균/NNG
+그년/NP
+그놈/NP
+그러/VV 져/EC+VX+EC
+그러/XR 뜨/VV 린/EC
+그르/VV 게/EC 되/VV 거나/EC
+그르/VV 게/EC 되/VV 다/EC
+그르/VV 게/EC 된/VV+ETM
+그르치/VV 다/EC
+그른/VA+ETM
+그릇/NNG 되/XSV 거나/EC
+그릇/NNG 되/XSV 게/EC
+그릇/NNG 되/XSV 다/EC
+그릇/NNG 된/XSV+ETM
+그리움/NNG
+그만두/VV 게/EC
+그만두/VV 다/EC
+그만두/VV 어/EC
+극/NNG 혐/UNKNOWN
+극성/NNG
+극성맞/VA 게/EC
+극성맞/VA 다/EC
+근심/NNG
+근심/NNG 걱정/NNG
+근심/NNG 스럽/XSA 거나/EC
+근심/NNG 스럽/XSA 고/EC
+근심/NNG 하/XSA 거나/EC
+근심/NNG 하/XSA 고/EC
+근심/NNG 하/XSA 다/EC
+근심/NNG 하/XSA 며/EC
+근심/NNG 하/XSV 는/ETM
+근심/NNG 함/XSA+ETN
+근지럽/VA 고/EC
+근지럽/VA 다/EC
+근질근질/MAG
+근질근질/MAG 하/VV 다/EC
+근질근질/MAG 한/XSA+ETM
+금사/NNP 빠/NNP
+금지/NNG
+금지/NNG 되/XSV 다/EC
+금지/NNG 된/XSV+ETM
+금지/NNG 하/XSV 는/ETM
+금지/NNG 하/XSV 다/EC
+금지/NNG 하/XSV 려/EC
+금지/NNG 함/XSV+ETN
+급성/NNG
+급작/XR 스럽/XSA 게/EC
+급하/VA 게/EC
+급하/VA 고/EC
+급하/VA 다/EC
+급하/VA 여/EC
+급한/VA+ETM
+기/NNG 꺾/VV 다/EC
+기/NNG 꺾/VV 음/ETN
+기겁/NNG 하/XSV 다/EC
+기관지염/NNG
+기만/NNG
+기만/NNG 하/XSV 다/EC
+기운/NNG 꺾이/VV 다/EC
+기운/NNG 꺾임/NNG
+기운/NNG 다/MAG 하/VV 여/EC
+기운/NNG 막히/VV 다/EC
+기운/NNG 막힘/VV+ETN
+기운/NNG 못/MAG 펴지/VV 게/EC
+기운/NNG 빠져/VV+EC
+기운/NNG 빠져서/VV+EC
+기운/NNG 쇠약/NNG 하/XSA 여/EC
+기운/NNG 쓰/VV 는/ETM
+기운/NNG 없/VA 거나/EC
+기운/NNG 없/VA 고/EC
+기운/NNG 없/VA 는/ETM
+기운/NNG 없/VA 다/EC
+기운/NNG 없/VA 어/EC
+기운/NNG 없/VA 어/EC 지/VX 고/EC
+기운/NNG 없이/MAG
+기운/NNG 잃/VV 고/EC
+기울/VV 다/EC
+기울어지/VV 거나/EC
+기울어지/VV 게/EC
+기울어지/VV 는/ETM
+기울어지/VV 다/EC
+기울어지/VV 며/EC
+기절/NNG 하/XSV 다/EC
+기절/NNG 하/XSV 듯이/EC
+기절/NNG 할/XSV+ETM
+기죽/VV 다/EC
+기진맥진/NNG 하/XSA 다/EC
+기집/NNG 년/NNB
+기침/NNG
+기침/NNG 소리/NNG
+기침병/NNG
+기피/NNG
+기피/NNG 되/XSV 어/EC
+기피/NNG 하/XSV 여/EC
+기형/NNG
+기회주의/NNG
+기회주의/NNG 적/XSN
+긴박/NNG
+긴박/NNG 하/XSV 다/EC
+긴장/NNG
+긴장/NNG 되/XSV 고/EC
+긴장/NNG 되/XSV 는/ETM
+긴장/NNG 되/XSV 다/EC
+긴장/NNG 된/XSV+ETM
+긴장/NNG 하/XSA 거나/EC
+긴장/NNG 하/XSA 다/EC
+긴장/NNG 하/XSA 여/EC
+긴장/NNG 한/XSA+ETM
+길/NNG 막/NNG
+까꾸/NNP 러트/NNG 리다/NNP
+까다로운/VA+ETM
+까다로워/VA+EC
+까다로이/MAG
+까다롭/VA 게/EC
+까다롭/VA 고/EC
+까다롭/VA 다/EC
+까마득/XR 하/XSA 게/EC
+까마득/XR 하/XSA 다/EC
+까무러지/VV 다/EC
+까무러치/VV 다/EC
+까무러칠/VV+ETM
+까부/VV 는/ETM
+까불/VV 거나/EC
+까불/VV 게/EC
+까불/VV 기/ETN
+까불/VV 다/EC
+까불/VV 며/EC
+까불/VV 어/EC
+까불/VV 어서/EC
+까불거리/VV 다/EC
+까불까불/MAG 하/VV 게/EC
+까불까불/MAG 하/VV 고/EC
+까불까불/MAG 한/XSA+ETM
+까운/NNG
+까칠/XR 하/XSA 거나/EC
+까칠/XR 하/XSA 게/EC
+까칠/XR 하/XSA 다/EC
+까탈/NNG
+까탈/NNG 스럽/XSA 다/EC
+깎/VV 아/EC 내려/VV+EC
+깎아내리/VV 기/ETN
+깎아내리/VV 는/ETM
+깎아내리/VV 다/EC
+깎아내리/VV 려/EC
+깎이/VV 게/EC
+깎이/VV 는/ETM
+깎이/VV 다/EC
+깎일/VV+ETM
+깐깐/XR 하/XSA 고/EC
+깐깐/XR 하/XSA 다/EC
+깐깐/XR 하/XSA 여/EC
+깐작깐작/MAG 하/VV 고/EC
+깐작깐작/MAG 하/VV 다/EC
+깔/NNG
+깔깔/MAG 하/VV 며/EC
+깔깔/XR 한/XSA+ETM
+깔끄럽/VA 게/EC
+깔끄럽/VA 다/EC
+깔보/VV 면서/EC
+깔보/VV 아/EC
+깔봄/VV+ETN
+깜놀/NNG
+깝/UNKNOWN
+깨/VV 어/EC 지/VX 거나/EC
+깨/VV 어/EC 지/VX 다/EC
+깨/VV 진/EC+JX
+깨갱/MAG 대/VV 다/EC
+깨뜨리/VV 다/EC
+깨지다/VV+EC
+깽깽대/VV 다/EC
+꺼/MAG 덕/NNG 거리/XSV 다/EC
+꺼/MAG 덕대/NNG 다/VCP+EC
+꺼/MAG 부/NNG
+꺼/MAG 부러져/VV+EC
+꺼꾸/NNG 러트/NNG 리다/NNP
+꺼덕이/VV 다/EC
+꺼려/VV+EC 지/VX 거나/EC
+꺼리/NNG
+꺼리/VV 다/EC
+꺼리/VV 어/EC
+꺼린다/VV+EC
+꺼림/XR
+꺼림/XR 찍/NNG 하/XSV 다/EC
+꺼림칙/XR 하/XSA 고/EC
+꺼림칙/XR 하/XSA 여/EC
+꺼림칙/XR 해/XSA+EC
+꺼먹/XR 대/XSV 다/EC
+꺼불/NNG 다/XSV+EC
+꺼불/NNG 대/XSV 다/EC
+꺼불거리/VV 고/EC
+꺼불거리/VV 다/EC
+꺼칠/XR 하/XSA 게/EC
+꺼칠/XR 하/XSA 고/EC
+꺼칠/XR 하/XSA 다/EC
+꺾이/VV 거나/EC
+꺾이/VV 게/EC
+꺾이/VV 고/EC
+꺾이/VV 다/EC
+꺾임/NNG
+껄끄러운/VA+ETM
+껄끄럽/VA 게/EC
+껄끄럽/VA 다/EC
+껄렁껄렁하/VA 게/EC
+껄렁껄렁한/VA+ETM
+꼬락서니/NNG
+꼬물/NNG 거리/XSV 는/ETM
+꼬물거리/VV 다/EC
+꼬이/VV 거나/EC
+꼬집/VV 거나/EC
+꼬집/VV 는/ETM
+꼬집/VV 다/EC
+꼬집히/VV 는/ETM
+꼴/NNG 사나운/VA+ETM
+꼴불견/NNG
+꼴사납/VA 게/EC
+꼴사납/VA 다/EC
+꼴통/NNG
+꽁/NNG 하/XSV 다/EC
+꽁알/NNG 대/XSV 다/EC
+꾀/MAG 부리/VV 는/ETM
+꾀/MAG 부리/VV 다/EC
+꾀/NNG 부려/VV+EC
+꾀/NNG 부리/VV 거나/EC
+꾀/NNG 부리/VV 느라고/EC
+꾀/VV 거나/EC
+꾀/VV 다/EC
+꾀죄죄/XR 하/XSA 다/EC
+꾀죄죄/XR 한/XSA+ETM
+꾸며/VV+EC 내/VX 는/ETM
+꾸며낸/VV+EC+VX+ETM
+꾸물거리/VV 는/ETM
+꾸물거리/VV 다/EC
+꾸물꾸물/MAG 하/VV 다/EC
+꾸중/NNG
+꾸중/NNG 하/XSV 다/EC
+꾸지람/NNG
+꾸지람/NNG 하/XSV 다/EC
+꾸짖/VV 거나/EC
+꾸짖/VV 는/ETM
+꾸짖/VV 다/EC
+꾸짖/VV 어/EC
+꾸짖/VV 음/ETN
+꿉/VV 신대/EC 다/MAG
+끊/VV 고/EC
+끊/VV 다/EC
+끊/VV 어/EC
+끊/VV 어/EC 져/VX+EC
+끊/VV 어/EC 지/VX 거나/EC
+끊/VV 어/EC 지/VX 고/EC
+끊/VV 어/EC 지/VX 는/ETM
+끊/VV 어/EC 지/VX 다/EC
+끊어짐/VV+ETN
+끔/VV+ETN 살/VV+ETM
+끔직/XR
+끔직/XR 하/XSA 고/EC
+끔찍/XR 하/XSA 게/EC
+끔찍/XR 하/XSA 다/EC
+끔찍/XR 한/XSA+ETM
+끔찍/XR 함/XSA+ETN
+끝/NNG 나/NP
+끝장/NNG
+끼깅/MAG 대/VV 다/EC
+낄/VV+ETM 끼/NNG 빠빠/NNP
+낑낑대/VV 다/EC
+나/NP 자빠지/VV 는/ETM
+나가/VV 거나/EC
+나간/VV+ETM 것/NNB
+나릿나릿/MAG
+나무/NNG 라는/VCP+ETM
+나무라/VV 게/EC
+나무라/VV 기나/EC
+나무라/VV 다/EC
+나무라/VV 며/EC
+나무람/NNG
+나불거리/VV 다/EC
+나불거리/VV 며/EC
+나불나불/MAG
+나불나불/MAG 하/VV 다/EC
+나빠/VA+EC 지/VX 거나/EC
+나빠/VA+EC 지/VX 게/EC
+나빠/VA+EC 지/VX 는/ETM
+나빠/VA+EC 지/VX 다/EC
+나빠/VA+EC 지/VX 도록/EC
+나빠서/VA+EC
+나빠진/VA+EC+VX+ETM
+나쁘/VA 거나/EC
+나쁘/VA 게/EC
+나쁘/VA 고/EC
+나쁘/VA 다/EC
+나쁜/VA+ETM
+나쁜/VA+ETM 놈/NNB
+나쁠/VA+ETM
+나태/NNG 하/XSA 게/EC
+나태/NNG 하/XSA 다/EC
+나태/NNG 한/XSA+ETM
+낙담/NNG
+낙담/NNG 하/XSV 다/EC
+낙망/NNG
+낙망/NNG 하/XSV 다/EC
+낙심/NNG
+낙심/NNG 되/XSV 다/EC
+낙심/NNG 하/XSV 다/EC
+난잡/XR 스러운/XSA+ETM
+난잡/XR 하/XSA 다/EC
+난잡/XR 한/XSA+ETM
+난처/XR 하/XSA 거나/EC
+난처/XR 하/XSA 고/EC
+난처/XR 하/XSA 다/EC
+난폭/NNG 하/XSV 거나/EC
+난폭/NNG 하/XSV 다/EC
+난폭/NNG 한/XSA+ETM
+난하/VA 다/EC
+난해/XR 하/XSA 다/EC
+날뛰/VV 게/EC
+날뛰/VV 는/ETM
+날뛰/VV 다/EC
+날뜀/NNG
+날조/NNG
+날카로운/NNG
+날카롭/VA 고/EC
+낡/VA 고/EC
+낡/VA 다/EC
+낡/VA 아/EC
+낡/VA 아/EC 지/VX 다/EC
+낡/VA 은/ETM
+남/NNG 낮추/VV 어/EC
+남/NNG 멸시/NNG
+남/VV 지/EC 않/VX 은/ETM
+남루/NNG 하/XSV 게/EC
+남부끄러이/MAG
+남부끄럽/VA 다/EC
+남부럽/VA 다/EC
+남사/XR 스럽/XSA 다/EC
+남용/NNG
+남용/NNG 하/XSV 다/EC
+납치/NNG
+낫/VA 지/EC 아니하/VX 는/ETM
+낫/VA 지/EC 아니하/VX 여/EC
+낫/VA 지/EC 않/VX 는/ETM
+낭비/NNG
+낭비/NNG 된/XSV+ETM
+낭비/NNG 하/XSV 다/EC
+낭패/NNG
+낭패/NNG 스럽/XSA 다/EC
+낮/VA 아/EC 지/VX 거나/EC
+낮/VA 아/EC 지/VX 다/EC
+낮/VA 아/EC 진/VX+ETM
+낮/VA 은/ETM
+낮잡/VV 는/ETM
+낮잡/VV 다/EC
+낮잡/VV 아/EC
+낮추/VV 다/EC
+낮추/VV 어/EC
+낮추/VV 어서/EC
+낯/NNG 부끄럽/VA 다/EC
+낯설/VA 다/EC
+내던져/VV+EC
+내리/MAG 눌리/VV 다/EC
+내버려/VV+EC 지/VX 거나/EC
+내버려/VV+EC 지/VX 다/EC
+내버려진/VV+EC+VX+ETM
+내버리/VV 거나/EC
+내버리/VV 다/EC
+내소외친/NNG 하/XSV 다/EC
+내송/NNG 하/XSV 다/EC
+내송/NNP
+내숭/NNG
+내숭/NNG 스럽/XSA 고/EC
+내쫓/VV 는/ETM
+내쫓/VV 다/EC
+내쫓/VV 아/EC
+내쫓기/VV 다/EC
+내쫓김/VV+ETN
+내팽개치/VV 다/EC
+냉담/NNG 하/XSV 다/EC
+냉담/XR 한/XSA+ETM
+냉랭/XR 하/XSA 거나/EC
+냉랭/XR 하/XSA 고/EC
+냉랭/XR 하/XSA 며/EC
+너/VV+EC 프/VX
+너그럽/VA 지/EC 못하/VX 고/EC
+너그럽/VA 지/EC 못하/VX 다/EC
+너무/MAG 하/VV 다/EC
+너불/XR 거리/XSV 다/EC
+너불/XR 거리/XSV 며/EC
+너저분/XR
+너저분/XR 하/XSA 게/EC
+너저분/XR 하/XSA 다/EC
+너저분/XR 하/XSA 여/EC
+너저분/XR 한/XSA+ETM
+너저분/XR 해/XSA+EC
+너절/XR 하/XSA 게/EC
+너절/XR 하/XSA 다/EC
+너절/XR 한/XSA+ETM
+넌/NP+JX 더리/VA 나다/EC
+넌더리/NNG
+넘기/VV 다/EC
+넘기/VV 려고/EC
+넘기/VV 지/EC 못한다/VX+EC
+넘어지/VV 거나/EC
+넘어지/VV 는/ETM
+넘어지/VV 다/EC
+넘어지/VV 며/EC
+넘어질/VV+ETM
+넘치/VV 게/EC
+넘치/VV 다/EC
+넘침/VV+ETN
+노/NNG 한다/XSV+EC
+노/NNP 답/NNG
+노곤/NNG 하/XSV 다/EC
+노곤/NNG 하/XSV 여/EC
+노략질/NNG
+노략질/NNG 하/XSV 는/ETM
+노략질/NNG 하/XSV 다/EC
+노략질/NNG 함/XSV+ETN
+노려보/VV 다/EC
+노름/NNG
+노름꾼/NNG
+노름판/NNG
+노린/NNP
+노숙자/NNP
+노여운/VA+ETM
+노여움/NNG
+노여워하/VV 다/EC
+노엽/VA 거나/EC
+노엽/VA 다/EC
+노예/NNG
+노하/VA 다/EC
+노하/VA 여/EC
+노한/NNG
+노함/NNG
+노후/NNG
+노후/NNG 되/XSV 다/EC
+녹/NNG
+놀/VV 기/ETN
+놀라/VV 거나/EC
+놀라/VV 고/EC
+놀라/VV 는/ETM
+놀라/VV 다/EC
+놀라/VV 서/EC
+놀라/VV+EC
+놀랍/VA 거나/EC
+놀려/VV+EC
+놀리/VV 거나/EC
+놀리/VV 게/EC
+놀리/VV 는/ETM
+놀리/VV 다/EC
+놀릴/VV+ETM
+놀림/NNG
+놀림/VV+ETN 받/VV 다/EC
+놀림조/NNG
+놀아나/VV 는/ETM
+농락/NNG 하/XSV 다/EC
+농락/NNG 하/XSV 여/EC
+농지거리/NNG
+놓/VV 을/ETM 수/NNB 없/VA 게/EC
+놓/VV 지/EC 못하/VX 고/EC
+놓/VV 지/EC 못하/VX 다/EC
+놓이/VV 지/EC 않/VX 다/EC
+놓이/VV 지/EC 않/VX 아/EC
+놓쳐/VV+EC
+놓치/VV 거나/EC
+놓치/VV 다/EC
+뇌물/NNG
+뇌성/NNG 마비/NNG
+뇌종양/NNG
+뇌진탕/NNG
+뇌출혈/NNG
+뇌타박상/NNG
+누르/VA 렀다/UNKNOWN
+눈/NNG 꼴/XSN 사납/VA 게/EC
+눈/NNG 풀리/VV 다/EC
+눈/NNG 풀린/VV+ETM
+눈꼴사납/VA 게/EC
+눈꼴사납/VA 고/EC
+눈꼴사납/VA 다/EC
+눈뜬/VV+ETM 장님/NNG
+눈물/NNG
+눈물겹/VA 다/EC
+눈치/NNG
+눌리/VV 다/EC
+뉘우쳐/VV+EC 져/VX+EC
+뉘우치/VV 다/EC
+느/NP 즈/XSN 러/VCP+EC 져/VX+EC
+느글/XR 대/XSV 다/EC
+느글거리/VV 는/ETM
+느글거리/VV 다/EC
+느끼/NNG 해/XSV+EC 지/VX 는/ETM
+느끼/NNG 해/XSV+EC 지/VX 다/EC
+느끼/XR 하/XSA 다/EC
+느리/VA 게/EC
+느리/VA 고/EC
+느리/VA 다/EC
+느릿느릿/MAG
+느물/XR 거려/XSV+EC
+느물거리/VV 는/ETM
+느물거리/VV 다/EC
+느슨/XR 하/XSA 다/EC
+늙/VV 거나/EC
+늙/VV 다/EC
+늙/VV 어서/EC
+늙은이/NNG
+능글능글/MAG
+능글능글/MAG 하/VV 다/EC
+능글맞/VA 게/EC
+능글맞/VA 고/EC
+능글맞/VA 다/EC
+능청/NNG
+능청/NNG 스러운/XSA+ETM
+능청/NNG 스럽/XSA 게/EC
+능청/NNG 스럽/XSA 고/EC
+능청/NNG 스럽/XSA 다/EC
+능청맞/VA 게/EC
+능청맞/VA 고/EC
+늦/VA 고/EC
+늦/VA 다/EC
+늦/VA 어/EC 지/VX 는/ETM
+늦/VA 어/EC 지/VX 다/EC
+늦/VA 음/ETN
+다/MAG 그치/VV 다/EC
+다/MAG 그치/VV 며/EC
+다급/XR 하/XSA 게/EC
+다급/XR 하/XSA 다/EC
+다급/XR 하/XSA 여/EC
+다듬/VV 어/EC 지/VX 지/EC 않/VX 은/ETM
+다랍/VA 게/EC
+다보록하/VA 다/EC
+다치/VV 거나/EC
+다치/VV 게/EC
+다치/VV 는/ETM
+다치/VV 다/EC
+다친/VV+ETM
+다친/VV+ETM 데/NNB 나/VV+EC
+다친다는/VV+ETM
+다침/NNG
+다투/VV 거나/EC
+다투/VV 는/ETM
+다투/VV 다/EC
+다툼/NNG
+닥쳐오/VV 다/EC
+닦달/NNG 하/XSV 거나/EC
+닦달/NNG 하/XSV 다/EC
+단념/NNG
+단작/NNG 스럽/XSA 게/EC
+달갑/VA 지/EC 아니하/VX 거나/EC
+달갑/VA 지/EC 아니하/VX 게/EC
+달갑/VA 지/EC 아니하/VX 여/EC
+달갑/VA 지/EC 아니하/VX 여서/EC
+달갑/VA 지/EC 아니한/VX+ETM
+달갑/VA 지/EC 않/VX 거나/EC
+달갑/VA 지/EC 않/VX 다/EC
+달갑/VA 지/EC 않/VX 은/ETM
+달갑잖/VA 다/EC
+달아남/NNG
+닳/VV 게/EC
+닳/VV 는/ETM
+닳/VV 다/EC
+닳/VV 아/EC
+답답/XR
+답답/XR 하/XSA 거나/EC
+답답/XR 하/XSA 게/EC
+답답/XR 하/XSA 고/EC
+답답/XR 하/XSA 다/EC
+답답/XR 하/XSA 디/EC
+답답/XR 하/XSA 며/EC
+답답/XR 하/XSA 여/EC
+답답/XR 하/XSA 여/EC 진다/VX+EC
+답답/XR 한/XSA+ETM
+답답/XR 할/XSA+ETM
+답답/XR 함/XSA+ETN
+답답/XR 해진다/XSA+EC+VX+EC
+당찮/VA 다/EC
+당하/NNG 였/VCP+EP 던/ETM
+당하/VV 거나/EC
+당하/VV 다/EC
+당하/VV 여/EC
+당한/NNG
+당혹/NNG 하/XSA 다/EC
+당황/NNG 하/XSA 다/EC
+당황/NNG 하/XSA 여/EC
+당황/NNG 한/XSA+ETM
+당황/NNG 해/XSV+EC 하/VV 는/ETM
+당황/NNG 해/XSV+EC 하/VV 다/EC
+닿/VV 지/EC 않/VX 다/EC
+대강/NNG
+대강대강/MAG
+대꾸/NNG 하/XSV 는/ETM
+대꾸/NNG 하/XSV 다/EC
+대단/XR 치/XSA+EC 않/VX 은/ETM
+대드/VV 는/ETM
+대들/VV 다/EC
+대립/NNG
+대립/NNG 하/XSV 는/ETM
+대립/NNG 하/XSV 다/EC
+대립각/NNG
+대수롭/VA 지/EC 아니하/VX 거나/EC
+대수롭/VA 지/EC 아니하/VX 고/EC
+대수롭/VA 지/EC 아니하/VX 다/EC
+대수롭/VA 지/EC 아니한/VX+ETM
+대수롭/VA 지/EC 않/VX 게/EC
+대중/NNG 없이/MAG
+대충/MAG 대충/MAG
+대충/MAG 하/VV 다/EC
+대충/NNG
+더듬/VV 는/ETM
+더듬/VV 다/EC
+더디/VA 거나/EC
+더디/VA 다/EC
+더딘/VA+ETM
+더러운/VA+ETM
+더러움/VA+ETN
+더러워/VA+EC
+더러워져서/VV+EC
+더러워지/VV 거나/EC
+더러워지/VV 다/EC
+더러워진/VA+EC+VX+ETM
+더럽/VA 게/EC
+더럽/VA 고/EC
+더럽/VA 다/EC
+더럽혀서/VV+EC
+더럽혀진/VV+EC+VX+ETM
+더럽히/VV 는/ETM
+더럽히/VV 다/EC
+더부룩/NNG
+더부룩/NNG 하/XSV 고/EC
+더부룩/NNG 하/XSV 다/EC
+더부룩/NNG 하/XSV 면서/EC
+더부룩/NNG 하/XSV 여/EC
+더운/VA+ETM
+더위/NNG
+덜렁거리/VV 며/EC
+덤벼들/VV 다/EC
+덤벼들/VV 어/EC
+덤비/VV 거나/EC
+덤비/VV 게/EC
+덤비/VV 는/ETM
+덤비/VV 다/EC
+덥/VA 거나/EC
+덥/VA 고/EC
+덥/VA 다/EC
+덧나/VV 다/EC
+데면데면/MAG
+데면데면/MAG 하/VV 다/EC
+데면데면/MAG 함/XSA+ETN
+도둑/NNG
+도둑/NNG 질/XSN
+도망/NNG
+도망/NNG 하/XSV 는/ETM
+도망가/VV 다/EC
+도살/NNG
+도살/NNG 되/XSV 다/EC
+도살/NNG 하/XSV 다/EC
+도외/NNG 시/XSN 하/XSV 다/EC
+도의심/NNG
+도의심/NNG 없/VA 다/EC
+도의심/NNG 없/VA 음/ETN
+도적질/NNG
+독/NNG
+독감/NNG
+독사/NNG
+독살/NNG
+독살/XR 스러운/XSA+ETM
+독하/VA 거나/EC
+독하/VA 다/EC
+독한/NNG
+돌림병/NNG
+돌머리/NNG
+동통/NNG
+되/VV 는/ETM 대로/NNB
+되/VV 지/EC 못한/VX+ETM
+되바라지/VA 게/EC
+되바라지/VA 다/EC
+되바라진/VV+ETM
+두려운/VA+ETM
+두려움/NNG
+두려워/VA+EC
+두려워/VA+EC 하/VV 는/ETM
+두려워/VA+EC 하/VV 다/EC
+두려워/VA+EC 하/VV 여/EC
+두려워서/VA+EC
+두려워함/VV+ETN
+두렵/VA 거나/EC
+두렵/VA 고/EC
+두렵/VA 다/EC
+두창/NNG
+두통/NNG
+둔하/VA 게/EC
+둔하/VA 고/EC
+둔하/VA 다/EC
+둔한/NNG
+뒤끓/VV 다/EC
+뒤떨어져/VV+EC
+뒤떨어지/VV 거나/EC
+뒤떨어지/VV 다/EC
+뒤바뀌/VV 다/EC
+뒤바뀌/VV 어/EC
+뒤섞/VV 거나/EC
+뒤섞/VV 다/EC
+뒤섞여/VV+EC
+뒤섞이/VV 거나/EC
+뒤섞이/VV 다/EC
+뒤숭숭/XR 하/XSA 게/EC
+뒤숭숭/XR 하/XSA 다/EC
+뒤숭숭/XR 한/XSA+ETM
+뒤숭숭/XR 함/XSA+ETN
+뒤얽혀/VV+EC
+뒤얽히/VV 게/EC
+뒤얽히/VV 다/EC
+뒤엉키/VV 다/EC
+뒤엉키/VV 어/EC
+뒤져/VV+EC 있/VX 다/EC
+뒤지/VV 다/EC
+뒤지/VV 어/EC
+뒤집어쓰/VV 게/EC
+뒤집어쓰/VV 는/ETM
+뒤집어쓰/VV 다/EC
+뒤집혀/VV+EC
+뒤집히/VV 다/EC
+뒤척거리/VV 다/EC
+뒤틀리/VV 다/EC
+뒤틀리/VV 어서/EC
+뒷거래/NNG
+뒷거래/NNG 하/XSV 다/EC
+드세/VA 게/EC
+드세/VA 다/EC
+드센/VA+ETM
+듣보잡/NNG
+들끓/VV 다/EC
+들볶/VV 거나/EC
+들볶/VV 다/EC
+들부/NNG 수다/NNG
+들부수/VV 게/EC
+들부수/VV 어/EC
+들추/VV 거나/EC
+들추/VV 게/EC
+들추/VV 다/EC
+들추/VV 어/EC
+들추어내/VV 다/EC
+들추어내/VV 어/EC
+따가운/VA+ETM
+따가울/VA+ETM
+따끔/MAG 거리/XSV 는/ETM
+따끔/MAG 거리/XSV 다/EC
+따끔/MAG 하/VV 게/EC
+따끔/MAG 하/VV 다/EC
+따끔따끔히/MAG
+따끔히/MAG
+따돌리/VV 거나/EC
+따돌리/VV 다/EC
+따돌림/NNG
+따분/XR 하/XSA 고/EC
+따지/VV 고/EC
+따지/VV 다/EC
+따지/VV 며/EC
+딱/MAG 하/VV 거나/EC
+딱/MAG 하/VV 게/EC
+딱/MAG 하/VV 고/EC
+딱/MAG 하/VV 다/EC
+딱/MAG 하/VV 여/EC
+딱/MAG 함/XSA+ETN
+딱딱/MAG 대/VV 다/EC
+딱딱/XR 한/XSA+ETM
+딱한/VA+ETM
+딴전/NNG
+때려/VV+EC
+때려서/VV+EC
+때리/VV 게/EC
+때리/VV 는/ETM
+때리/VV 다/EC
+때림/NNG
+떠/VV 는/ETM
+떠나/VV 다/EC
+떠나가/VV 다/EC
+떠남/VV+ETN
+떠넘기/VV 려고/EC
+떠드/VV 는/ETM
+떠들/VV 거나/EC
+떠들/VV 다/EC
+떠들/VV 디/EC
+떠들/VV 며/EC
+떠들/VV 어/EC
+떠들/VV 어서/EC
+떠들썩/XR
+떠들썩/XR 대/XSV 다/EC
+떠들썩/XR 하/XSA 게/EC
+떠들썩/XR 하/XSA 다/EC
+떠들썩/XR 한/XSA+ETM
+떠벌리/VV 다/EC
+떡대/NNG
+떡대/NNG 다/VCP+EC
+떡실신/NNG
+떨/VV 다/EC
+떨/VV 며/EC
+떨구/VV 다/EC
+떨리/VV 는/ETM
+떨리/VV 다/EC
+떨림/NNG
+떨어져/VV+EC
+떨어지/VV 고/EC
+떨어지/VV 는/ETM
+떨어지/VV 다/EC
+떨어트리/VV 다/EC
+떪/UNKNOWN
+떼/NNG 쓰/VV 다/EC
+떼/NNG 쓰/VV 며/EC
+똥똥/NNG 하/XSV 게/EC
+똥똥/XR 한/XSA+ETM
+뚝/MAG 둑/NNG 하/XSV 고/EC
+뚱뚱/XR 하/XSA 다/EC
+뚱뚱/XR 한/XSA+ETM
+뜨거운/VA+ETM
+뜨겁/VA 다/EC
+뜨끔/MAG
+뜨끔/MAG 하/VV 게/EC
+뜨끔/MAG 하/VV 다/EC
+뜨끔거리/VV 는/ETM
+뜨끔거리/VV 다/EC
+뜨끔뜨끔/MAG
+뜨악/XR
+뜨악/XR 하/XSA 다/EC
+뜻/NNG 굽/VV 히다/EC
+띠/NNG 꾸/VV
+루머/NNG
+리빙빙/NNP 하/VV 다/EC
+마구/MAG 쓰/VV 다/EC
+마땅/XR 치/XSA+EC 않/VX 은/ETM
+마땅/XR 하/XSA 지/EC 않/VX 은/ETM
+마르/VV 고/EC
+마르/VV 다/EC
+마맛자국/NNG
+마비/NNG
+마비/NNG 되/XSV 거나/EC
+마비/NNG 되/XSV 고/EC
+마비/NNG 되/XSV 는/ETM
+마약/NNG
+마음/NNG 걸려/VV+EC
+마음/NNG 걸리/VV 는/ETM
+마음/NNG 걸리/VV 다/EC
+마음/NNG 걸리/VV 어/EC
+마음/NNG 없/VA 는/ETM
+마음/NNG 조임/NNG
+마음/NNG 졸이/VV 는/ETM
+마음/NNG 졸이/VV 다/EC
+마음/NNG 졸이/VV 며/EC
+마음/NNG 졸임/VV+ETN
+마음/NNG 좁/VA 고/EC
+마음/NNG 좁/VA 아/EC
+마이너스/NNG
+마지못하/VA 다/EC
+마지못하/VA 여/EC
+마지못한/VA+ETM
+마지못해/VA+EC
+막되/VA 게/EC
+막되/VA 다/EC
+막되/VA 어/EC
+막막/XR 하/XSA 게/EC
+막막/XR 하/XSA 다/EC
+막연/XR 하/XSA 다/EC
+막혀/VV+EC
+막히/VV 거나/EC
+막히/VV 는/ETM
+막히/VV 다/EC
+막히/VV 듯이/EC
+막힌/VV+ETM
+막힐/VV+ETM
+막힘/VV+ETN
+만만/XR 치/XSA+EC 않/VX 다/EC
+만만/XR 하/XSA 다/EC
+만만/XR 한/XSA+ETM
+만만찮/VA 다/EC
+만성/NNG
+말/NNG 꾀/VV 다/EC
+말/NNG 꾀/VV 어/EC
+말다툼/NNG
+말다툼/NNG 하/XSV 다/EC
+말대꾸/NNG
+말대꾸/NNG 하/XSV 다/EC
+말대답/NNG
+말라서/VV+EC
+말라죽/VV 다/EC
+말라죽/VV 은/ETM
+말라죽/VV 을/ETM
+말썽/NNG
+맛/NNG 없/VA 다/EC
+맛/NNG 없이/MAG
+맛없/VA 다/EC
+맛없이/MAG
+망그러지/VV 다/EC
+망상/NNG
+망설/NNG 거나/EC
+망설/NNG 고/EC
+망설/NNG 다/EC
+망설/NNG 며/EC
+망설여/VV+EC 지/VX 며/EC
+망설이/VV 기/ETN
+망설이/VV 는/ETM
+망신/NNG
+망신/NNG 스러운/XSA+ETM
+망실/NNG
+망실/NNG 하/XSV 다/EC
+망연/XR
+망연자실/NNG
+망치/NNG
+망치/VV 다/EC
+망하/VA 다/EC
+망하/VV 는/ETM
+망할/VV+ETM
+맞/NNG 갖/VV 지/EC 않/VX 게/EC
+맞/NNG 갖/VV 지/EC 않/VX 다/EC
+맞/VV 거나/EC
+맞/VV 거나/EC 하/VV 여/EC
+맞/VV 는/ETM
+맞/VV 다/EC
+맞/VV 지/EC 아니하/VX 게/EC
+맞/VV 지/EC 아니하/VX 다/EC
+맞/VV 지/EC 아니하/VX 여/EC
+맞/VV 지/EC 아니함/VX+ETN
+맞/VV 지/EC 않/VX 게/EC
+맞/VV 지/EC 않/VX 다/EC
+맞/VV 지/EC 않/VX 아/EC
+매독/NNP
+매독균/NNG
+매몰차/VA 게/EC
+매몰차/VA 고/EC
+매몰차/VA 다/EC
+매섭/VA 게/EC
+매섭/VA 다/EC
+매스껍/VA 고/EC
+매스껍/VA 다/EC
+매슥매슥/MAG
+매여/VV+EC
+매이/VV 다/EC
+매질/NNG
+맥/NNG 빠져/VV+EC
+맥/NNG 빠지/VV 다/EC
+맥/NNG 풀려/VV+EC
+맥/NNG 풀리/VV 거나/EC
+맥/NNG 풀리/VV 다/EC
+맥/NNG 풀림/NNG
+맥없/VA 게/EC
+맥없/VA 는/ETM
+맥없/VA 다/EC
+맥없이/MAG
+맵짜/VA 게/EC
+맵짜/VA 다/EC
+머뭇/XR 하/XSA 다/EC
+머뭇거리/VV 거나/EC
+머뭇거리/VV 게/EC
+머뭇거리/VV 는/ETM
+머뭇거리/VV 다/EC
+머뭇거리/VV 며/EC
+머뭇대/VV 다/EC
+머뭇머뭇/MAG 하/VV 거나/EC
+머뭇머뭇/MAG 하/VV 는/ETM
+머뭇머뭇/MAG 하/VV 다/EC
+머저리/NNG
+먹/NNG 튀/NNG
+먹먹/XR 하/XSA 다/EC
+먼지/NNG
+멀/VA 건/EC
+멀/VA 어/EC 지/VX 다/EC
+멀/VA 어/EC 진/VX+ETM 듯/NNB 한/XSA+ETM
+멀겋/VA 게/EC
+멀겋/VA 다/EC
+멀리/MAG 하/VV 다/EC
+멀리/MAG 함/XSA+ETN
+멋/NNG 없/VA 다/EC
+멋없/VA 게/EC
+멋없/VA 다/EC
+멋없이/MAG
+멋쩍/VA 거나/EC
+멋쩍/VA 고/EC
+멋쩍/VA 다/EC
+멋쩍/VA 은/ETM
+멋쩍/VA 음/ETN
+멍/MAG 하/VV 고/EC
+멍/MAG 하/VV 다/EC
+멍/NNP 들/VV 거나/EC
+멍/NNP 들/VV 다/EC
+멍청/XR
+멍청/XR 하/XSA 거나/EC
+멍청/XR 하/XSA 고/EC
+멍청/XR 하/XSA 다/EC
+멍청/XR 한/XSA+ETM
+멍청이/NNG
+멍한/VA+ETM
+메마르/VA 다/EC
+메말라/VA+EC
+메스꺼움/VA+ETN
+메스꺼워/VA+EC
+메스껍/VA 고/EC
+메스껍/VA 다/EC
+메슥메슥/MAG
+멘붕/NNP
+면색여토/NNG
+면직/NNG
+멸/NNG 명/NNG 되/XSV 다/EC
+멸망/NNG
+멸망/NNG 되/XSV 다/EC
+멸망/NNG 된/XSV+ETM
+멸망/NNG 시키/XSV 다/EC
+멸망/NNG 하/XSV 다/EC
+멸망/NNG 함/XSV+ETN
+멸시/NNG
+멸시/NNG 당하/XSV 는/ETM
+멸시/NNG 당하/XSV 다/EC
+멸시/NNG 되/XSV 다/EC
+멸시/NNG 하/XSV 거나/EC
+멸시/NNG 하/XSV 다/EC
+멸시감/NNG
+멸여/NNG
+멸여/NNG 되/XSV 다/EC
+멸여/NNG 하/XSV 다/EC
+명예/NNG 훼손/NNG
+명예훼손/NNP
+모/NP 짊/VV
+모략/NNG
+모르/VV 거나/EC
+모르/VV 게/EC
+모르/VV 고/EC
+모르/VV 는/ETM
+모르/VV 다/EC
+모르/VV 면서/EC
+모름/NNG
+모멸감/NNG
+모순/NNG
+모순/NNG 되/XSV 다/EC
+모순/NNG 된/XSV+ETM
+모욕/NNG
+모욕/NNG 적/XSN
+모자/NNG
+모자라/VV 거나/EC
+모자라/VV 게/EC
+모자라/VV 고/EC
+모자라/VV 기/ETN
+모자라/VV 는/ETM
+모자라/VV 다/EC
+모자라/VV 서/EC
+모자라/VV+EC
+모진/NNG
+모질/VA 게/EC
+모질/VA 고/EC
+모질/VA 다/EC
+모호/XR 하/XSA 거나/EC
+모호/XR 하/XSA 게/EC
+모호/XR 하/XSA 다/EC
+모호/XR 하/XSA 여/EC
+목숨/NNG 끊/VV 다/EC
+목숨/NNG 다/MAG 되/VV 어/EC
+목숨/NNG 다/MAG 된/VV+ETM
+몰/VV 아/EC 댄/VX+ETM
+몰라/VV+EC
+몰라서/VV+EC
+몰래/MAG
+몰아대/VV 거나/EC
+몰아대/VV 다/EC
+몰아붙이/VV 다/EC
+몰아붙이/VV 듯/EC
+몰아붙이/VV 듯이/EC
+몰아세우/VV 다/EC
+몰아쳐서/VV+EC
+몰아치/VV 다/EC
+몰인정/NNG
+몸/NNG 붓/VV 고/EC
+몸/NNG 붓/VV 는/ETM
+몸/NNG 붓/VV 다/EC
+몸/NNG 살/VV 나다/EC
+몸살/NNG
+몸져눕/VV 게/EC
+몸져눕/VV 는/ETM
+몸져눕/VV 다/EC
+못/MAG 가누/VV 다/EC
+못/MAG 견디/VV 게/EC
+못/MAG 견디/VV 다/EC
+못/MAG 남/VV+EC
+못/MAG 났/VV+EP 다/EC
+못/MAG 내리/VV 는/ETM
+못/MAG 내리/VV 다/EC
+못/MAG 되/VV 게/EC
+못/MAG 되/VV 다/EC
+못/MAG 되/VV 도록/EC
+못/MAG 된/VV+ETM
+못/MAG 마땅/XR
+못/MAG 마땅/XR 하/XSA 거나/EC
+못/MAG 마땅/XR 하/XSA 게/EC
+못/MAG 마땅/XR 하/XSA 다/EC
+못/MAG 마땅/XR 하/XSA 며/EC
+못/MAG 마땅/XR 하/XSA 여/EC
+못/MAG 마땅/XR 하/XSA 여서/EC
+못/MAG 마땅/XR 한/XSA+ETM
+못/MAG 마땅/XR 할/XSA+ETM
+못/MAG 마땅/XR 해/XSA+EC
+못/MAG 마땅/XR 해/XSA+EC 하/VV 면서/EC
+못/MAG 미쳐/VV+EC
+못/MAG 살/VV 게/EC
+못/MAG 살/VV 다/EC
+못/MAG 생겨서/VV+EC
+못/MAG 생겼/VV+EP 다/EC
+못/MAG 생기/VV 다/EC
+못/MAG 쓰/VV 게/EC
+못/MAG 차리/VV 고/EC
+못/MAG 차리/VV 다/EC
+못/MAG 하/VV 거나/EC
+못/MAG 하/VV 게/EC
+못/MAG 하/VV 겠/EP 다고/EC
+못/MAG 하/VV 고/EC
+못/MAG 하/VV 는/ETM
+못/MAG 하/VV 다/EC
+못/MAG 하/VV 던/ETM
+못/MAG 하/VV 도록/EC
+못/MAG 하/VV 여/EC
+못/MAG 한/VV+ETM
+못/MAG 할/VV+ETM
+못/MAG 함/VV+EC
+못/MAG 함/VV+ETN
+못/MAG 해/VV+EC
+못나/VA 게/EC
+못나/VA 고/EC
+못나/VA 다/EC
+못난/VA+ETM
+못난이/NNG
+못미덥/VA 다/EC
+못생긴/VA+ETM
+못생김/VA+ETN
+무/XPN 관심/NNG 하/XSV 다/EC
+무/XPN 뇌/NNG 충/NNG
+무/XPN 능력/NNG
+무/XPN 의미/NNG 한/XSA+ETM
+무/XPN 질서/NNG
+무/XPN 질서/NNG 하/XSV 게/EC
+무/XPN 질서/NNG 하/XSV 고/EC
+무/XPN 질서/NNG 하/XSV 다/EC
+무/XPN 질서/NNG 한/XSA+ETM
+무/XPN 책임/NNG
+무/XPN 책임/NNG 하/XSV 다/EC
+무가치/NNG
+무가치/NNG 하/XSV 고/EC
+무가치/NNG 하/XSV 다/EC
+무거운/VA+ETM
+무거워/VA+EC 지/VX 다/EC
+무겁/VA 거나/EC
+무겁/VA 게/EC
+무겁/VA 고/EC
+무겁/VA 다/EC
+무관심/NNG
+무관심/NNG 한/XSA+ETM
+무기력/NNG
+무기력/NNG 하/XSV 다/EC
+무기력/NNG 한/XSA+ETM
+무기력/NNG 함/XSV+ETN
+무너뜨리/VV 다/EC
+무너지/VV 게/EC
+무너지/VV 는/ETM
+무너지/VV 다/EC
+무너진/VV+ETM
+무너짐/VV+ETN
+무능/NNG 하/XSA 다/EC
+무능/NNG 한/XSA+ETM
+무단/NNG 결석/NNG
+무단결석/NNG
+무더위/NNG
+무덥/VA 고/EC
+무덥/VA 다/EC
+무디/VA 다/EC
+무딘/VA+ETM
+무뚝뚝/NNG
+무뚝뚝/NNG 하/XSV 다/EC
+무러/NNP 질/NNG
+무러/NNP 쳐/VV+EC
+무례/NNG 하/XSA 다/EC
+무례/NNG 한/XSA+ETM
+무례/NNG 함/XSA+ETN
+무르/VA 게/EC
+무르/VA 고/EC
+무르/VA 다/EC
+무리/NNG 하/XSV 게/EC
+무리/NNG 하/XSV 다/EC
+무모/NNG 하/XSA 다/EC
+무모한/NNG
+무분/NNG 별/XSN
+무서운/VA+ETM
+무서울/VA+ETM
+무서움/VA+ETN
+무서워/VA+EC
+무서워/VA+EC 하/VV 는/ETM
+무서워/VA+EC 하/VV 다/EC
+무서워/VA+EC 하/VV 여/EC
+무서워서/VA+EC
+무섭/VA 거나/EC
+무섭/VA 게/EC
+무섭/VA 고/EC
+무섭/VA 기/ETN
+무섭/VA 다/EC
+무스/NNG 름/UNKNOWN
+무스/NNG 름/UNKNOWN 하/VV 다/EC
+무시/NNG
+무시/NNG 당하/XSV 다/EC
+무시/NNG 무시/NNG
+무시/NNG 하/XSV 고/EC
+무시/NNG 하/XSV 다/EC
+무안/NNG
+무안/NNG 하/XSV 거나/EC
+무안/NNG 하/XSV 고/EC
+무안/NNG 하/XSV 다/EC
+무의/NNG 하/XSV 다/EC
+무의미/NNG
+무의미/NNG 하/XSV 게/EC
+무의미/NNG 하/XSV 다/EC
+무자비/NNG
+무자비/NNG 하/XSV 다/EC
+무자비/XR 한/XSA+ETM
+무정/XR 하/XSA 다/EC
+무정/XR 한/XSA+ETM
+무지/MAG 러지/NNP
+무지/NNG 러/VCP+EC 져서/VX+EC
+무지근/XR 하/XSA 다/EC
+무지근/XR 한/XSA+ETM
+무지하/VA 고/EC
+무지하/VA 다/EC
+무효/NNG
+무효로/NNG
+문드러져/VV+EC
+문드러지/VV 다/EC
+문란/NNG 하/XSA 게/EC
+문란/NNG 하/XSA 다/EC
+문란/NNG 하/XSA 여진/EC+VX+ETM
+문맹/NNG
+문제/NNG
+물/NNG 크/VA 러/EC 질/VX+EC
+물/VV 다/EC
+물러나/VV 다/EC
+물러서/VV 거나/EC
+물리/VV 거나/EC
+물리/VV 다/EC
+물어뜯/VV 거나/EC
+물어뜯/VV 다/EC
+물집/NNG
+물크러지/VV 다/EC
+미개/NNG 하/XSV 다/EC
+미개/NNG 하/XSV 여/EC
+미개/XR 한/XSA+ETM
+미련/NNG
+미련/XR 하/XSA 거나/EC
+미련/XR 하/XSA 고/EC
+미련/XR 하/XSA 다/EC
+미련/XR 하/XSA 여/EC
+미련/XR 한/XSA+ETM
+미루/VV 거나/EC
+미루/VV 다/EC
+미숙/XR 하/XSA 다/EC
+미숙/XR 하/XSA 여/EC
+미숙/XR 한/XSA+ETM
+미안/NNG 하/XSV 게/EC
+미안/NNG 하/XSV 고/EC
+미안/NNG 하/XSV 다/EC
+미안/NNG 하/XSV 여/EC
+미안/NNG 함/XSV+ETN
+미약/NNG
+미약/XR 하/XSA 다/EC
+미약/XR 한/XSA+ETM
+미운/NNG
+미움/NNG
+미워하/VV 고/EC
+미워하/VV 는/ETM
+미워하/VV 다/EC
+미워한/VA+EC+VX+ETM
+미워할/VA+EC+VX+ETM
+미워함/VV+ETN
+미워해/VA+EC+VX+EC
+미천/XR 한/XSA+ETM
+미치/VV 겠/EP 다/EC
+미치/VV 지/EC 못한/VX+ETM
+미치/VV 지/EC 못함/VX+ETN
+미친/VV+ETM
+미친개/NNG
+미칠/VV+ETM 만/NNB 하/XSA 게/EC
+미혹/NNG 한/XSA+ETM
+민감/XR 하/XSA 게/EC
+민감/XR 하/XSA 고/EC
+민감/XR 하/XSA 다/EC
+민감/XR 한/XSA+ETM
+민폐/NNG
+밀려나/VV 다/EC
+밀린/NNP
+밉/VA 게/EC
+밉/VA 다/EC
+밉살/XR 스러운/XSA+ETM
+밉살/XR 스럽/XSA 게/EC
+밉살/XR 스럽/XSA 고/EC
+밉살/XR 스럽/XSA 다/EC
+밋밋/XR 하/XSA 다/EC
+바라지/VV 다/EC
+바라진/VV+ETM
+바람/NNG 피우/VV 다/EC
+바람/NNG 피우/VV 며/EC
+바래서/VV+EC
+바보/NNG
+바쁘/VA 게/EC
+바쁘/VA 다/EC
+바스러지/VV 다/EC
+바스러질/VV+ETM
+바이러스/NNG
+바지직/MAG 대/VV 다/EC
+박복/NNG
+박복/NNG 하/XSV 다/EC
+박복/NNG 함/XSV+ETN
+박약/NNG
+박탈/NNG
+박탈/NNG 다/MAG
+박탈/NNG 되/XSV 고/EC
+박탈/NNG 되/XSV 다/EC
+박탈/NNG 되/XSV 어/EC
+박탈/NNG 하/XSV 고/EC
+박탈/NNG 하/XSV 다/EC
+박탈/NNG 하/XSV 여/EC
+박할/NNG
+박할/NNG 하/XSV 다/EC
+반대/NNG
+반대/NNG 하/XSV 거나/EC
+반대/NNG 하/XSV 다/EC
+반란/NNG
+반발/NNG
+반발/NNG 하/XSV 다/EC
+반벙어리/NNG
+반성/NNG
+반신불수/NNG
+반역/NNG
+반품/NNG 남/NNG
+반품/NNG 녀/NNG
+반항/NNG
+반항/NNG 하/XSV 게/EC
+반항/NNG 하/XSV 는/ETM
+반항/NNG 하/XSV 다/EC
+반항/NNG 하/XSV 려는/ETM
+반항/NNG 하/XSV 여/EC
+발길/NNG 질/XSN
+발길질/NNG
+발끈/MAG
+발끈/MAG 대/VV 다/EC
+발연기/NNG
+발열/NNG
+발작/NNG
+발칙/XR 하/XSA 다/EC
+발컨/NNG
+방자/NNG 하/XSV 고/EC
+방자/NNG 하/XSV 다/EC
+방자/XR 한/XSA+ETM
+방정/NNG
+방정/NNG 떠/VV 는/ETM
+방정/NNG 떨/VV 다/EC
+방정맞/VA 게/EC
+방정맞/VA 고/EC
+방정맞/VA 다/EC
+방정맞/VA 은/ETM
+방치/NNG
+방치/NNG 되/XSV 다/EC
+방치/NNG 하/XSV 다/EC
+방탕/NNG
+방탕/NNG 하/XSV 게/EC
+방탕/NNG 하/XSV 고/EC
+방탕/NNG 하/XSV 다/EC
+방탕/NNG 한/XSA+ETM
+방해/NNG
+방해/NNG 하/XSV 거나/EC
+방해/NNG 하/XSV 는/ETM
+방해/NNG 하/XSV 다/EC
+방해/NNG 하/XSV 던/ETM
+방해/NNG 하/XSV 여/EC
+방해/NNG 함/XSV+ETN
+밭/VA 고/EC
+밭/VA 다/EC
+배/VA 은/ETM 망덕/NNG
+배반/NNG
+배반/NNG 하/XSV 다/EC
+배반/NNG 함/XSV+ETN
+배신/NNG
+배신/NNG 하/XSV 다/EC
+배신/NNG 하/XSV 여/EC
+배신한/NNP
+배척/NNG
+배척/NNG 되/XSV 다/EC
+배척/NNG 하/XSV 다/EC
+배척/NNG 함/XSV+ETN
+배탈/NNG
+버/VV 그러/EC 져/VX+EC
+버겁/VA 다/EC
+버그/NNG 러진/VV+ETM
+버럭/NNG
+버럭대/VV 다/EC
+버려/VV+EC 지/VX 다/EC
+버려두/VV 어/EC
+버려진/VV+EC+VX+ETM
+버릇없/VA 게/EC
+버릇없/VA 고/EC
+버릇없/VA 는/ETM
+버릇없/VA 다/EC
+버릇없이/MAG
+버리/NNG
+버리/VV 다/EC
+버린다는/VV+ETM
+버성기/VA 다/EC
+버성기/VA 어/EC
+벅차/VA 다/EC
+번거/XR 롭/XSA 게/EC
+번거/XR 롭/XSA 다/EC
+번거로운/VA+ETM
+벌/NNG
+벌/NNG 받/VV 을/ETM
+벌레/NNG
+벌어져/VV+EC
+벌어지/VV 는/ETM
+벌어지/VV 다/EC
+범인/NNG
+범죄/NNG
+범죄/NNG 적/XSN 인/VCP+ETM
+범죄자/NNG
+벗어나/VV 는/ETM
+벗어나/VV 다/EC
+벗어나/VV+EC
+벗어난/VV+ETM
+벙벙/XR 하/XSA 다/EC
+벙벙/XR 한/XSA+ETM
+벼르/VV 다/EC
+변덕/NNG
+변덕/NNG 스러워/XSA+EC
+변덕/NNG 스럽/XSA 다/EC
+변변찮/VA 다/EC
+변변찮/VA 은/ETM
+변비/NNG
+변비증/NNG
+변사/NNG 하/XSV 다/EC
+변이/NNG
+변태/NNG
+별/NNG 스러울/XSA+ETM
+별/NNG 스러워/XSA+EC
+별/NNG 스럽/XSA 다/EC
+별로/MAG 다/MAG
+병/NNG
+병/NNG 다/EC
+병/NNG 적/XSN
+병/NNG 적/XSN 다/EC
+병/NNG 적/XSN 인/VCP+ETM
+병독/NNG
+병든/VV+ETM
+병들/VV 거나/EC
+병들/VV 다/EC
+병들/VV 어/EC
+병맛/NNG
+병세/NNG
+병신/NNG
+병의/NNG
+병적/NNG
+병증/NNG
+병치레/NNG
+보/VV 챔/UNKNOWN
+보로/NNG 통/NNG
+보수/NNG 적/XSN
+보수/NNG 적/XSN 다/EC
+보수/NNG 적/XSN 인/VCP+ETM
+보잘것없/VA 거나/EC
+보잘것없/VA 고/EC
+보잘것없/VA 는/ETM
+보잘것없/VA 다/EC
+보잘것없/VA 음/ETN
+보잘것없이/MAG
+보채/NNG
+보채/VV 거나/EC
+보채/VV 다/EC
+복잡/XR 하/XSA 거나/EC
+복잡/XR 하/XSA 게/EC
+복잡/XR 하/XSA 고/EC
+복잡/XR 하/XSA 다/EC
+복잡/XR 하/XSA 여/EC
+복종/NNG
+복종/NNG 하/XSV 다/EC
+복종/NNG 하/XSV 면서/EC
+복종/NNG 함/XSV+ETN
+복통/NNG
+볶아치/VV 는/ETM
+볶아치/VV 다/EC
+볼/VV+ETM 행/NNG 히/VV+EC
+볼쌍/NNG 사납/VA 게/EC
+볼썽사납/VA 다/EC
+볼품없/VA 게/EC
+볼품없/VA 는/ETM
+볼품없/VA 다/EC
+볼품없이/MAG
+봉변/NNG
+부/XPN 정확/NNG 한/XSA+ETM
+부/XPN 진증/NNG
+부글거리/VV 는/ETM
+부글거리/VV 다/EC
+부끄러운/VA+ETM
+부끄러움/NNG
+부끄러워/VA+EC 지/VX 다/EC
+부끄러워/VA+EC 하/VV 는/ETM
+부끄러워/VA+EC 하/VV 다/EC
+부끄러워/VA+EC 함/VX+ETN
+부끄러워서/VA+EC
+부끄러이/MAG
+부끄럽/VA 게/EC
+부끄럽/VA 다/EC
+부담/NNG
+부담/NNG 스러운/XSA+ETM
+부담/NNG 스럽/XSA 다/EC
+부당/NNG 하/XSV 거나/EC
+부당/NNG 하/XSV 게/EC
+부당/NNG 하/XSV 다/EC
+부당/NNG 한/XSA+ETM
+부도덕/NNG
+부도덕/NNG 한/XSA+ETM
+부득기소/NNG
+부득부득/MAG
+부딪치/VV 거나/EC
+부딪치/VV 다/EC
+부러뜨리/VV 다/EC
+부러지/VV 거나/EC
+부러지/VV 다/EC
+부럽/VA 다/EC
+부르짖/VV 고/EC
+부르짖/VV 다/EC
+부르짖/VV 으며/EC
+부르짖/VV 음/ETN
+부리/NNG
+부리/VV 거나/EC
+부리/VV 고/EC
+부리/VV 다/EC
+부산/NNG 하/XSV 게/EC
+부산/NNG 하/XSV 다/EC
+부산/NNP 떨/VV 며/EC
+부산/NNP 피우/VV 다/EC
+부산/XR 스럽/XSA 다/EC
+부산/XR 한/XSA+ETM
+부상/NNG
+부서지/VV 거나/EC
+부서지/VV 다/EC
+부수/VV 다/EC
+부스럼/NNG
+부스스/MAG 한/XSA+ETM
+부실/NNG 하/XSV 게/EC
+부심/NNG
+부인/NNG 하/XSV 다/EC
+부자연/NNG
+부자연/XR 스러운/XSA+ETM
+부자연/XR 스러움/XSA+ETN
+부자연/XR 스럽/XSA 게/EC
+부자연/XR 스럽/XSA 다/EC
+부작용/NNG
+부적격/NNG
+부적당/XR 하/XSA 다/EC
+부적당/XR 한/XSA+ETM
+부적절/NNG
+부적절/XR
+부적절/NNG 하/XSV 다/EC
+부적절/XR 한/XSA+ETM
+부정/NNG
+부정/NNG 적/XSN 인/VCP+ETM
+부정/NNG 하/XSV 거나/EC
+부정/NNG 하/XSV 는/ETM
+부정/NNG 하/XSV 다/EC
+부정/NNG 하/XSV 며/EC
+부정/NNG 하/XSV 여/EC
+부정어/NNG
+부정적/NNG
+부정직/XR
+부정행위/NNG
+부정확/NNG 하/XSV 다/EC
+부조/NNG 화/XSN
+부조리/NNG
+부족/NNG
+부족/NNG 하/XSV 거나/EC
+부족/NNG 하/XSV 게/EC
+부족/NNG 하/XSV 다/EC
+부족/NNG 하/XSV 며/EC
+부족/NNG 하/XSV 여/EC
+부족/NNG 한/XSA+ETM
+부족/NNG 함/XSV+ETN
+부주의/NNG
+부주의/NNG 한/XSA+ETM
+부진/NNG
+부진/NNG 하/XSA 다/EC
+부질/NNG 없이/MAG
+부질없/VA 다/EC
+부추겨서/VV+EC
+부추기/VV 는/ETM
+부추기/VV 다/EC
+부추기/VV 어/EC
+부패/NNG 하/XSV 다/EC
+부패/NNG 한/XSA+ETM
+분/NNG 노나/VV+EC
+분개/NNG 하/XSA 다/EC
+분개/NNG 하/XSA 여/EC
+분개/NNG 할/XSV+ETM
+분격/NNG
+분격/NNG 하/XSV 다/EC
+분나/NNG
+분나/NNG 하/XSV 다/EC
+분노/NNG
+분노/NNG 하/XSV 다/EC
+분노함/NNG
+분다/VV+EF
+분란/NNG
+분란/NNG 하/XSV 다/EC
+분별없이/MAG
+분수/NNG 넘치/VV 게/EC
+분수/NNG 넘치/VV 는/ETM
+분수/NNG 넘치/VV 다/EC
+분수/NNG 없이/MAG
+분에/NNG
+분에/NNG 하/XSV 다/EC
+분열병/NNG
+분탄/NNG 하/XSV 다/EC
+분탕/NNG
+분탕질/NNG
+분통/NNG
+분통/NNG 스럽/XSA 다/EC
+분통/NNG 터지/VV 다/EC
+분풀이/NNG
+분하/VA 거나/EC
+분하/VA 게/EC
+분하/VA 고/EC
+분하/VA 다/EC
+분하/VA 여/EC
+분한/NNG
+분함/VA+ETN
+불/NNG 닿/VV 은/ETM
+불/XPN 건전/NNG 한/XSA+ETM
+불/XPN 균형/NNG
+불/XPN 만족/NNG
+불/XPN 만족/NNG 하/XSV 다/EC
+불/XPN 신의/NNG
+불/XPN 안정/NNG 하/XSV 게/EC
+불/XPN 안정/NNG 한/XSA+ETM
+불/XPN 충분/XR 하/XSA 거나/EC
+불/XPN 충분/XR 하/XSA 다/EC
+불/XPN 충분/XR 한/XSA+ETM
+불/XPN 평등/NNG
+불/XPN 평등/NNG 하/XSV 다/EC
+불/XPN 평등/NNG 한/XSA+ETM
+불/XPN 합리/NNG
+불가/NNG
+불건전/NNG
+불결/XR 하/XSA 다/EC
+불결/XR 한/XSA+ETM
+불경기/NNG
+불길/NNG
+불길/XR 하/XSA 거나/EC
+불길/XR 하/XSA 다/EC
+불길/XR 한/XSA+ETM
+불능/NNG
+불량/NNG
+불량/NNG 하/XSV 다/EC
+불량/NNG 한/XSA+ETM
+불량배/NNG
+불량자/NNG
+불량패/NNG
+불량품/NNG
+불량화소/NNG
+불리/NNG 하/XSA 다/EC
+불리/NNG 한/XSA+ETM
+불만/NNG
+불만/NNG 스러운/XSA+ETM
+불만/NNG 스럽/XSA 거나/EC
+불만/NNG 스럽/XSA 게/EC
+불만/NNG 스럽/XSA 다/EC
+불만/NNG 스레/XSA+EC
+불만/NNG 하/XSA 다/EC
+불만감/NNG
+불만족/NNG 스러운/XSA+ETM
+불만족/NNG 스럽/XSA 다/EC
+불만족스레/MAG
+불만투성이/NNG
+불면병/NNG
+불면증/NNG
+불명예/NNG
+불명예/NNG 스러운/XSA+ETM
+불법/NNG
+불법/NNG 다/EC
+불법/NNG 적/XSN
+불법/NNG 체류/NNG
+불법/NNG 행위/NNG
+불법체류/NNP
+불성실/NNG
+불순물/NNG
+불신/NNG
+불신/NNG 하/XSA 다/EC
+불쌍/XR 하/XSA 게/EC
+불쌍/XR 하/XSA 고/EC
+불쌍/XR 하/XSA 다/EC
+불쌍/XR 하/XSA 여/EC
+불쌍/XR 한/XSA+ETM
+불쌍/XR 함/XSA+ETN
+불쌍히/MAG
+불안/NNG
+불안/NNG 스럽/XSA 다/EC
+불안/NNG 초조/NNG
+불안/NNG 하/XSA 거나/EC
+불안/NNG 하/XSA 게/EC
+불안/NNG 하/XSA 다/EC
+불안/NNG 하/XSA 여/EC
+불안/NNG 한/XSA+ETM
+불안/NNG 할/XSV+ETM
+불안/NNG 해/XSV+EC 하/VV 고/EC
+불안/NNG 해/XSV+EC 하/VV 는/ETM
+불안감/NNG
+불안전성/NNG
+불안증/NNG
+불안히/MAG
+불운/NNG
+불유쾌/NNG 하/XSV 다/EC
+불충분/NNG
+불치병/NNG
+불쾌/XR
+불쾌/XR 스럽/XSA 다/EC
+불쾌/XR 스레/XSA+EC
+불쾌/XR 하/XSA 게/EC
+불쾌/XR 하/XSA 다/EC
+불쾌/XR 하/XSA 다고/EC
+불쾌/XR 한/XSA+ETM
+불쾌감/NNG
+불쾌히/MAG
+불편/NNG
+불편/NNG 스럽/XSA 다/EC
+불편/NNG 스레/XSA+EC
+불편/NNG 하/XSA 거나/EC
+불편/NNG 하/XSA 게/EC
+불편/NNG 하/XSA 고/EC
+불편/NNG 하/XSA 다/EC
+불편/NNG 하/XSA 며/EC
+불편/NNG 하/XSA 여/EC
+불편/NNG 한/XSA+ETM
+불편/NNG 할/XSV+ETM
+불편/NNG 함/XSA+ETN
+불편리/NNG
+불편리/NNG 하/XSV 다/EC
+불평/NNG
+불평/NNG 스러운/XSA+ETM
+불평/NNG 스러워/XSA+EC
+불평/NNG 스럽/XSA 게/EC
+불평/NNG 스럽/XSA 다/EC
+불평/NNG 하/XSV 는/ETM
+불평/NNG 하/XSV 다/EC
+불평조/NNG
+불평판/NNG
+불합격/NNG
+불합격/NNG 하/XSV 다/EC
+불합격/NNG 한/XSV+ETM
+불행/NNG
+불행/NNG 하/XSV 거나/EC
+불행/NNG 하/XSV 게/EC
+불행/NNG 하/XSV 다/EC
+불행/NNG 한/XSA+ETM
+불협화음/NNG
+불화/NNG
+불/XPN 확실/XR 성/XSN
+불황/NNG
+불효/NNG
+붉으락푸르락/MAG
+붓/VV 고/EC
+붓/VV 는다/EC
+붓다/NNG
+비/NNG
+비/VV 게/EC
+비/XPN 정상/NNG
+비/XPN 정상/NNG 적/XSN
+비/XPN 정한/NNG
+비/XPN 현실/NNG
+비/XPN 현실/NNG 적/XSN
+비/XPN 효율/NNG
+비/XPN 효율/NNG 적/XSN
+비관/NNG 적/XSN
+비관/NNG 적/XSN 다/EC
+비관/NNG 적/XSN 인/VCP+ETM
+비굴/NNG 하/XSV 게/EC
+비굴/NNG 하/XSV 다/EC
+비굴/NNG 한/XSV+ETM
+비굴/NNG 할/XSV+ETM
+비극/NNG
+비꼬/VV 는/ETM
+비꼬/VV 다/EC
+비난/NNG
+비난/NNG 하/XSV 는/ETM
+비난/NNG 하/XSV 다/EC
+비난/NNG 하/XSV 여/EC
+비난조/NNG
+비딱/XR 하/XSA 다/EC
+비뚤/VA 어/EC 져/VX+EC
+비뚤/VA 어/EC 져서/VX+EC
+비뚤/VA 어/EC 지/VX 거나/EC
+비뚤/VA 어/EC 지/VX 다/EC
+비뚤/VA 어/EC 진/VX+ETM
+비뚤/XR 거리/XSV 다/EC
+비련/NNG
+비리/NNG
+비만/NNG 다/EC
+비매/NNG
+비방/NNG
+비방/NNG 하/XSV 거나/EC
+비방/NNG 하/XSV 다/EC
+비상/NNG
+비속/NNG 하/XSV 게/EC
+비속/NNG 하/XSV 다/EC
+비싸/VA 다/EC
+비싼/VA+ETM
+비아/NNG 냥/NNBC
+비아/NNG 냥/NNBC 하/VV 다/EC
+비아냥거리/VV 다/EC
+비아냥대/VV 다/EC
+비아냥스럽/VA 다/EC
+비아냥스레/MAG
+비아냥조/NNG
+비어/NNG
+비열/NNG 하/XSV 다/EC
+비열한/NNG
+비웃/VV 거나/EC
+비웃/VV 게/EC
+비웃/VV 는/ETM
+비웃/VV 다/EC
+비웃/VV 으며/EC
+비웃음/NNG
+비위/NNG 맞추/VV 느라고/EC
+비위/NNG 맞추/VV 다/EC
+비위/NNG 맞추/VV 려고/EC
+비위/NNG 상하/VV 게/EC
+비위/NNG 상하/VV 다/EC
+비위상/NNG 하/XSV 다/EC
+비좁/VA 아/EC
+비좁/VA 은/ETM
+비참/NNG
+비참/NNG 한/XSA+ETM
+비참히/MAG
+비추/NNG 하/XSV 다/EC
+비추천/NNG
+비탄/NNG
+비탄/NNG 하/XSA 다/EC
+비통/NNG 하/XSA 다/EC
+비통/NNG 한/XSA+ETM
+비틀거리/VV 거나/EC
+비틀거리/VV 는/ETM
+비틀거리/VV 다/EC
+비틀거리/VV 며/EC
+비틀거리/VV 면서/EC
+비틀어지/VV 며/EC
+비판/NNG
+비판/NNG 되/XSV 다/EC
+비판/NNG 하/XSV 다/EC
+비판/NNG 한/XSV+ETM
+비판/NNG 함/XSV+ETN
+비평/NNG
+비평/NNG 하/XSV 다/EC
+비합리/NNG 적/XSN
+비합리/NNG 적/XSN 인/VCP+ETM
+빈/VV+ETM 것/NNB
+빈대/NNG
+빈둥거리/VV 는/ETM
+빈둥거리/VV 다/EC
+빈둥빈둥/MAG
+빈둥빈둥/MAG 하/VV 는/ETM
+빈둥빈둥/MAG 하/VV 다/EC
+빈정/NNG
+빈정/NNG 거/NNB 다/VCP+EC
+빈정/NNG 거리/XSV 는/ETM
+빈정/NNG 거릴/XSV+ETM
+빈정거리/VV 다/EC
+빈정거리/VV 며/EC
+빈정대/VV 는/ETM
+빈정대/VV 다/EC
+빈혈/NNG
+빌런/NNG
+빌빌/MAG 하/VV 는/ETM
+빌빌/MAG 하/VV 다/EC
+빌빌대/VV 다/EC
+빌어먹/VV 을/ETM
+빚/NNG
+빚지/VV 다/EC
+빠/VV 지/EC 직대/NNG 다/VCP+EC
+빠듯/XR 하/XSA 게/EC
+빠듯/XR 하/XSA 다/EC
+빠져/VV+EC
+빠지/VV 게/EC
+빠진/VV+ETM
+빠트리/VV 다/EC
+빡/MAG 도네/NNP
+빡/MAG 돌/VV 다/EC
+빡/MAG 치/VV 네/EC
+빡/MAG 치/VV 다/EC
+빡세/VA 네/EC
+빡세/VA 다/EC
+빤빤/XR 스럽/XSA 게/EC
+빤빤/XR 스럽/XSA 고/EC
+빤빤/XR 스럽/XSA 다/EC
+빤빤/XR 하/XSA 게/EC
+빤빤/XR 하/XSA 다/EC
+빵꾸/NNG 똥/NNG 꾸/VV
+빵셔틀/NNG
+빼돌려/VV+EC
+빼앗/VV 거나/EC
+빼앗/VV 기/ETN
+빼앗/VV 는/ETM
+빼앗/VV 다/EC
+빼앗/VV 아/EC
+빼앗/VV 으려고/EC
+빼앗/VV 은/ETM
+빼앗/VV 음/ETN
+빼앗겨/VV+EC
+빼앗기/VV 거나/EC
+빼앗기/VV 게/EC
+빼앗기/VV 고/EC
+빼앗기/VV 다/EC
+빼앗긴/VV+ETM
+뺀/VV+ETM 질대/NNG 다/VCP+EC
+뻐근/XR 하/XSA 게/EC
+뻐근/XR 하/XSA 다/EC
+뻑적지근/XR 하/XSA 다/EC
+뻔뻔/XR 스러운/XSA+ETM
+뻔뻔/XR 스럽/XSA 게/EC
+뻔뻔/XR 스럽/XSA 고/EC
+뻔뻔/XR 스럽/XSA 다/EC
+뻔뻔/XR 하/XSA 게/EC
+뻔뻔/XR 하/XSA 다/EC
+뻔뻔/XR 한/XSA+ETM
+뻣뻣/XR 하/XSA 다/EC
+뻣뻣/XR 해/XSA+EC 지/VX 기/ETN
+뻣뻣/XR 해/XSA+EC 지/VX 다/EC
+뼈저리/VA 다/EC
+뾰루퉁/XR 하/XSA 다/EC
+삐딱/MAG 대/VV 다/EC
+삐딱/NNG 거리/XSV 다/EC
+삐딱/NNG 하/XSV 다/EC
+삐뚤/VA 어/EC 져서/VX+EC
+삐뚤/XR 거리/XSV 다/EC
+삐뚤/XR 대/XSV 다/EC
+삐뚤어지/VV 다/EC
+삐졌/VV+EP 다/EC
+삐죽대/VV 다/EC
+삐죽삐죽/MAG
+삐죽이/NNG
+삐지/VV 다/EC
+삐쭉이/VV 는/ETM
+삐쭉이/VV 다/EC
+삐쳤/VV+EP 다/EC
+삐치/VV 다/EC
+사/NNG 늘/MAG
+사/NNG 늘/MAG 하/VV 다/EC
+사/VV 고/EC 나/VX 다/EC
+사고/NNG
+사나우/VA 며/EC
+사나운/VA+ETM
+사납/VA 거나/EC
+사납/VA 게/EC
+사납/VA 고/EC
+사납/VA 다/EC
+사납/VA 던/ETM
+사라졌/VV+EP 다/EC
+사라졌/VV+EP 다고/EC
+사망/NNG
+사망/NNG 하/XSV 다/EC
+사멸/NNG
+사멸/NNG 하/XSV 는/ETM
+사멸/NNG 하/XSV 다/EC
+사세난연/NNG
+사세난연/NNG 하/XSV 다/EC
+사실/NNG 인/VCP+ETM 것/NNB
+사악/XR 하/XSA 다/EC
+사악/XR 한/XSA+ETM
+사양/NNG 하/XSV 는/ETM
+사이/NNG 두/VV 는/ETM
+사이/NNG 두/VV 다/EC
+사정/NNG 없이/MAG
+사치/NNG
+사치/NNG 스러운/XSA+ETM
+사치/NNG 스럽/XSA 다/EC
+사태/NNG
+사형/NNG
+삭/VV 는/ETM
+삭막/XR 하/XSA 다/EC
+살/NNG 쪄/VV+EC
+살/NNG 쪄서/VV+EC
+살/NNG 찌/VV 고/EC
+살/NNG 찌/VV 는/ETM
+살/NNG 찌/VV 다/EC
+살/NNG 찐/VV+ETM
+살/NNG 해/XSV+EC
+살/VV 기/ETN
+살모넬라균/NNG
+살벌/XR 하/XSA 다/EC
+살스레/MAG
+살인/NNG
+살인/NNG 하/XSV 다/EC
+살인자/NNG
+살인죄/NNG
+살해/NNG 되/XSV 다/EC
+살해/NNG 됨/XSV+ETN
+살해/NNG 하/XSV 다/EC
+상/NNG 함/XSV+ETN
+상스러운/VA+ETM
+상스럽/VA 게/EC
+상스럽/VA 고/EC
+상스럽/VA 다/EC
+상습범/NNG
+상실/NNG
+상실/NNG 된/XSV+ETM
+상실/NNG 하/XSV 다/EC
+상실/NNG 한/XSV+ETM
+상심/NNG
+상심/NNG 하/XSV 다/EC
+상처/NNG
+상하/VV 거나/EC
+상하/VV 게/EC
+상하/VV 고/EC
+상하/VV 다/EC
+상하/VV 여/EC
+상한/NNG
+상해서/VV+EC
+상혼/NNG
+상혼/NNG 하/XSA 다/EC
+새눈무늿병/NNG
+샐/VV+ETM 그러/XR 뜨리/VV 다/EC
+샐/VV+ETM 그러/XR 뜨리/VV 며/EC
+샐쭉/MAG
+샐쭉/MAG 대/VV 다/EC
+샐쭉/MAG 하/VV 다/EC
+샐쭉거리/VV 다/EC
+샐쭉샐쭉/MAG
+샐쭉샐쭉/MAG 하/VV 다/EC
+샘/NNG 하/XSV 는/ETM
+샘/NNG 하/XSV 여/EC
+샘/NNP 바르다/NNP
+샘/VV+ETN 바르/VV 고/EC
+샘나/VV 는/ETM
+샘나/VV 다/EC
+생각/NNG 없이/MAG
+서/VV 며/EC
+서글퍼/VA+EC 지/VX 다/EC
+서글프/VA 다/EC
+서글픔/NNG
+서글피/MAG
+서늘/XR 하/XSA 다/EC
+서늘/XR 한/XSA+ETM
+서다/NNG
+서두르/VV 다/EC
+서두르/VV 며/EC
+서러운/VA+ETM
+서러움/NNG
+서러워하/VV 다/EC
+서러이/MAG
+서럽/VA 게/EC
+서럽/VA 다/EC
+서먹/XR 거리/XSV 다/EC
+서먹서먹/XR
+서먹서먹/XR 하/XSA 게/EC
+서먹서먹/XR 하/XSA 다/EC
+서먹서먹/XR 한/XSA+ETM
+서분/NNG 대/XSV 다/EC
+서운/NNG 감/XSN
+서운/XR 하/XSA 거나/EC
+서운/XR 하/XSA 게/EC
+서운/XR 하/XSA 고/EC
+서운/XR 하/XSA 다/EC
+서운/XR 한/XSA+ETM
+서운/XR 함/XSA+ETN
+서운히/MAG
+서투르/VA 거나/EC
+서투르/VA 게/EC
+서투르/VA 고/EC
+서투르/VA 다/EC
+서투른/VA+ETM
+서투름/VA+ETN
+선득선득/MAG
+선득선득/MAG 하/VV 다/EC
+설렁/MAG 대/VV 다/EC
+설렁거리/VV 다/EC
+설렁설렁/MAG
+설렁설렁/MAG 하/VV 다/EC
+설레발/NNG
+설레발/NNG 치/VV 다/EC
+설사/MAG
+설사/MAG 가/VV+EC
+설사/MAG 의/NNG
+설사/NNG
+설사/NNG 하/XSV 는/ETM
+설움/NNG
+설친/VV+ETM
+설피/NNG
+섬뜩/MAG
+섬뜩/MAG 하/VV 다/EC
+섬뜩섬뜩/MAG
+섬뜩섬뜩/MAG 하/VV 다/EC
+섬약/XR 하/XSA 다/EC
+섬약/XR 하/XSA 여/EC
+섭섭/NNP
+섭섭/XR 하/XSA 거나/EC
+섭섭/XR 하/XSA 게/EC
+섭섭/XR 하/XSA 고/EC
+섭섭/XR 하/XSA 다/EC
+섭섭/XR 한/XSA+ETM
+섭하/VA 다/EC
+성/NNG 나/VV 거나/EC
+성/NNG 나/VV 다/EC
+성/NNG 나/VV 서/EC
+성/NNG 남/NNG
+성/NNG 내/VV 거나/EC
+성/NNG 내/VV 는/ETM
+성/NNG 내/VV 다/EC
+성/NNG 내/VV 며/EC
+성/NNG 내/VV 어/EC
+성/NNG 냄/VV+ETN
+성/NNG 잘/MAG 내/NP
+성가시/VA 게/EC
+성가시/VA 고/EC
+성가시/VA 다/EC
+성가시/VA 어/EC
+성가신/VA+ETM
+성가실/VA+ETM
+성글/VA 다/EC
+성급/NNG 하/XSV 게/EC
+성급/NNG 하/XSV 다/EC
+성급/XR 한/XSA+ETM
+성기/VA 게/EC
+성기/VA 다/EC
+성나/VV 다/EC
+성난/VV+ETM
+성내/VV 다/EC
+성내/VV 어/EC
+성의/NNG 없이/MAG
+성질/NNG 내/VV 다/EC
+성질/NNG 부리/VV 다/EC
+성질나/VV 다/EC
+세다/NNP
+세차/VA 고/EC
+세차/VA 다/EC
+센/NNG
+소갈/NNG 병/NNG
+소고집/NNG
+소극/NNG 적/XSN
+소극/NNG 적/XSN 다/EC
+소동/NNG
+소란/NNG
+소란/NNG 스러운/XSA+ETM
+소란/NNG 스러움/XSA+ETN
+소란/NNG 스럽/XSA 게/EC
+소란/NNG 스럽/XSA 고/EC
+소란/NNG 스럽/XSA 다/EC
+소란/NNG 하/XSV 게/EC
+소란/NNG 하/XSV 고/EC
+소란/NNG 하/XSV 다/EC
+소란/NNG 해/XSV+EC 지/VX 거나/EC
+소란/NNG 해/XSV+EC 지/VX 다/EC
+소름/NNG
+소름/NNG 끼치/VV 는/ETM
+소름/NNG 끼치/VV 다/EC
+소름/NNG 돋/VV 다/EC
+소모/NNG 되/XSV 다/EC
+소모/NNG 되/XSV 어/EC
+소모/NNG 하/XSV 다/EC
+소스라치/VV 게/EC
+소스라치/VV 다/EC
+소실/NNG
+소외/NNG
+소외/NNG 되/XSV 다/EC
+소외감/NNG
+소용없/VA 다/EC
+소용없이/MAG
+소원/NNG 하/XSA 다/EC
+소원/NNG 한/XSA+ETM
+소음/NNG
+소홀/NNG
+소홀/NNG 하/XSV 게/EC
+소홀/NNG 하/XSV 다/EC
+소홀히/MAG
+소화/NNG 불량/NNG
+속/NNG 거나/EC
+속/NNG 고/EC
+속/NNG 기/ETN
+속/NNG 끓/VV 는/ETM
+속/NNG 끓/VV 다/EC
+속/NNG 다/EC
+속/NNG 되/XSV 게/EC
+속/NNG 되/XSV 다/EC
+속/NNG 려는/EC
+속/NNG 며/EC
+속/NNG 빈/VV+ETM
+속/NNG 썩이/VV 다/EC
+속/NNG 태/VV 움/EC
+속/NNG 태우/VV 다/EC
+속/NNG 태우/VV 며/EC
+속/VV 다/EC
+속박/NNG
+속박/NNG 되/XSV 다/EC
+속병/NNG
+속상/NNG
+속상하/VA 다/EC
+속아/NNG
+속여/VV+EC
+속이/VV 는/ETM
+속인다/VV+EC
+속인다는/VV+ETM
+속임/VV+ETN
+속임수/NNG
+속절없/VA 다/EC
+속절없이/MAG
+속태/NNG
+손/NNG 부끄럽/VA 다/EC
+손/NNG 해의/NNG
+손부끄러이/MAG
+손상/NNG
+손상/NNG 되/XSV 다/EC
+손상/NNG 되/XSV 어/EC
+손상/NNG 된/XSV+ETM
+손상/NNG 시키/XSV 는/ETM
+손상/NNG 시키/XSV 다/EC
+손상/NNG 시킨/XSV+ETM
+손상/NNG 입/VV 다/EC
+손실/NNG
+손해/NNG
+손해/NNG 배상/NNG
+송구/XR 스럽/XSA 거나/EC
+송구/XR 스럽/XSA 게/EC
+송구/XR 스럽/XSA 다/EC
+쇠/NNG 약감/NNG
+쇠/NNG 하/XSV 여/EC 지/VX 다/EC
+쇠멸/NNG 하/XSV 다/EC
+쇠약/NNG
+쇠약/NNG 하/XSA 다/EC
+쇠약/NNG 한/XSA+ETM
+쇠약/NNG 해/XSV+EC 지/VX 거나/EC
+쇠약/NNG 해/XSV+EC 지/VX 는/ETM
+쇠약/NNG 해/XSV+EC 지/VX 다/EC
+쇠약/NNG 해/XSV+EC 지/VX 면서/EC
+쇠약/NNG 해져서/XSA+EC+VX+EC
+쇠약/NNG 해진/XSA+EC+VX+ETM
+쇠잔/NNG
+쇠잔/XR 하/XSA 다/EC
+쇠잔/XR 하/XSA 여/EC
+쇠퇴/NNG
+쇠퇴/NNG 하/XSV 다/EC
+쇠퇴/NNG 하/XSV 여/EC
+쇠퇴/NNG 한/XSV+ETM
+수/NNG 꼴/NNG
+수감/NNG
+수군덕수군덕/MAG
+수군덕수군덕/MAG 하/VV 다/EC
+수두/NNG
+수막염/NNG
+수면/NNG 부족/NNG
+수면부족/NNG
+수상쩍/VA 거나/EC
+수선/NNG 부리/VV 다/EC
+수선/NNG 스러워/XSA+EC
+수선스럽/VA 게/EC
+수선스럽/VA 고/EC
+수선스럽/VA 다/EC
+수준/NNG 낮/VA 다/EC
+수준/NNG 낮/VA 은/ETM
+수준/NNG 낮/VA 음/ETN
+수척/NNG 하/XSV 다/EC
+수치/NNG
+수치/NNG 스러운/XSA+ETM
+수치/NNG 스럽/XSA 다/EC
+수치/NNG 플/NNG
+술렁거리/VV 다/EC
+술렁거리/VV 어/EC
+숨/VV 어/EC
+쉬/VV 다/EC
+쉰/NR
+스러져/VV+EC 가/VX 다/EC
+스산/XR 하/XSA 고/EC
+스산/XR 하/XSA 다/EC
+스스/NNP 럼/NNG
+스트레스/NNG
+스포/NNG
+슬쩍/MAG
+슬퍼/VA+EC
+슬퍼/VA+EC 지/VX 다/EC
+슬퍼서/VA+EC
+슬퍼져서/VA+EC+VX+EC
+슬퍼하/VV 고/EC
+슬퍼하/VV 다/EC
+슬퍼하/VV 면서/EC
+슬퍼함/VV+ETN
+슬프/VA 게/EC
+슬프/VA 고/EC
+슬프/VA 기/ETN
+슬프/VA 다/EC
+슬프/VA 도다/EC
+슬픈/VA+ETM
+슬플/VA+ETM
+슬픔/NNG
+슬피/NNG
+슴벅거리/VV 다/EC
+습진/VA+ETM
+시/NNG 들/XSN 대/VV 다/EC
+시그럽/VA 다/EC
+시근시근/MAG 하/VV 다/EC
+시기/NNG
+시기/NNG 하/XSV 고/EC
+시기/NNG 하/XSV 는/ETM
+시기/NNG 하/XSV 다/EC
+시기/NNG 하/XSV 여/EC
+시기/NNG 한/XSA+ETM
+시기/NNG 함/XSV+ETN
+시끄럽/VA 거나/EC
+시끄럽/VA 게/EC
+시끄럽/VA 고/EC
+시끄럽/VA 다/EC
+시끌시끌/MAG
+시달리/VV 다/EC
+시달림/NNG
+시든/NNP
+시들/VV 고/EC
+시들/VV 다/EC
+시들/VV 면서/EC
+시들/VV 어/EC
+시들/VV 어서/EC
+시들/XR 하/XSA 게/EC
+시들/XR 하/XSA 다/EC
+시들/XR 한/XSA+ETM
+시들/XR 해/XSA+EC 지/VX 다/EC
+시들/XR 해져서/XSA+EC+VX+EC
+시들시들/MAG
+시련/NNG
+시름/NNG 하/XSA 여/EC
+시름/NNG 하/XSV 는/ETM
+시름시름/MAG
+시리/VA 고/EC
+시리/VA 다/EC
+시망/NNG
+시무룩/XR
+시무룩/XR 하/XSA 다/EC
+시비/NNG
+시비/NNG 하/XSV 는/ETM
+시새움/NNG
+시샘/NNG
+시샘/NNG 하/XSV 다/EC
+시시/NNG 하/XSV 는/ETM
+시시/XR 하/XSA 거나/EC
+시시/XR 하/XSA 다/EC
+시시/XR 한/XSA+ETM
+시원찮/VA 다/EC
+시장/NNG 하/XSV 거나/EC
+시장/NNG 하/XSV 다/EC
+시장/NNG 한/XSA+ETM
+시체/NNG
+시치미/NNG
+시큰거리/VV 고/EC
+시큰거리/VV 다/EC
+시큰둥/XR
+시큰둥/XR 하/XSA 다/EC
+시큰둥/XR 한/XSA+ETM
+식상/NNG
+식상/NNG 하/XSV 다/EC
+식중독/NNG
+신경증/NNG
+신경질/NNG
+신경질/NNG 적/XSN
+신경질/NNG 적/XSN 인/VCP+ETM
+신경질쟁이/NNG
+신물/NNG
+신통찮/VA 다/EC
+실랑이/NNG
+실망/NNG
+실망/NNG 스럽/XSA 고/EC
+실망/NNG 스럽/XSA 다/EC
+실망/NNG 하/XSA 다/EC
+실망/NNG 한/XSA+ETM
+실망/NNG 함/XSA+ETN
+실망감/NNG
+실망낙담/NNG
+실속/NNG 없이/MAG
+실수/NNG
+실심/NNG
+실심/NNG 하/XSV 다/EC
+실없/VA 거나/EC
+실없/VA 게/EC
+실없/VA 고/EC
+실없/VA 는/ETM
+실없/VA 다/EC
+실없이/MAG
+실점/NNG
+실조/NNG
+실패/NNG
+실패/NNG 하/XSV 거나/EC
+실패/NNG 하/XSV 다/EC
+실패/NNG 함/XSV+ETN
+싫/VA 거나/EC
+싫/VA 게/EC
+싫/VA 고/EC
+싫/VA 다/EC
+싫/VA 도록/EC
+싫/VA 어/EC 나/VX 다/EC
+싫/VA 어/EC 지/VX 거나/EC
+싫/VA 어/EC 지/VX 다/EC
+싫/VA 어/EC 하/VV 게/EC
+싫/VA 어/EC 하/VV 고/EC
+싫/VA 어/EC 하/VV 는/ETM
+싫/VA 어/EC 하/VV 다/EC
+싫/VA 어/EC 하/VV 여/EC
+싫/VA 어/EC 한/VX+ETM
+싫/VA 어/EC 함/VX+ETN
+싫/VA 어/EC 해/VV+EC
+싫/VA 어서/EC
+싫/VA 은/ETM
+싫/VA 을/ETM
+싫이/MAG
+싫증/NNG
+심각/XR 성/XSN
+심각/XR 하/XSA 게/EC
+심각/XR 하/XSA 다/EC
+심각/XR 한/XSA+ETM
+심드렁/XR
+심드렁/XR 하/XSA 다/EC
+심술/NNG
+심술/NNG 부리/VV 다/EC
+심술/NNG 스럽/XSA 다/EC
+심술궂/VA 게/EC
+심술궂/VA 고/EC
+심술궂/VA 다/EC
+심술궂/VA 은/ETM
+심술꾸러기/NNG
+심술쟁이/NNG
+심오/XR 하/XSA 다/EC
+심장마비/NNG
+심장병/NNG
+심통/NNG
+심통/NNG 부리/VV 다/EC
+심하/VA 거나/EC
+심하/VA 게/EC
+심하/VA 고/EC
+심하/VA 다/EC
+심하/VA 면/EC
+심하/VA 여/EC
+심한/VA+ETM
+심함/VA+ETN
+심해/VA+EC 지/VX 는/ETM
+심해/VA+EC 지/VX 다/EC
+싱거운/VA+ETM
+싱겁/VA 게/EC
+싱겁/VA 다/EC
+싶/VX 지/EC 않/VX 았/EP 던/ETM
+싸/VV+EC 가지/VX 없는/EC
+싸가지/NNG
+싸가지/NNG 없/VA 다/EC
+싸늘/XR 하/XSA 다/EC
+싸늘/XR 한/XSA+ETM
+싸우/VV 는/ETM
+싸우/VV 다/EC
+싸움/NNG
+쌀쌀/NNG 하/XSV 다/EC
+쌀쌀/XR 한/XSA+ETM
+쌀쌀맞/VA 고/EC
+쌀쌀맞/VA 다/EC
+쌍년/NNG
+쌍놈/NNG
+썩/MAG 임/VCP+ETN
+썩/VV 거나/EC
+썩/VV 게/EC
+썩/VV 는/ETM
+썩/VV 는다/EC
+썩/VV 다/EC
+썩/VV 어서/EC
+썩소/NNG
+썩이/VV 다/EC
+썰렁/XR 하/XSA 다/EC
+썰렁/XR 한/XSA+ETM
+쏘아붙이/VV 는/ETM
+쏘아붙이/VV 다/EC
+쑤시/VV 고/EC
+쑤시/VV 는/ETM
+쑤시/VV 다/EC
+쑤시/VV 듯/EC
+쑤시/VV 듯이/EC
+쑤시/VV 며/EC
+쑥스럽/VA 다/EC
+쓰/VV 다/EC
+쓰/VV 며/EC
+쓰라리/VA 다/EC
+쓰라린/VA+ETM
+쓰라림/VA+ETN
+쓰러져/VV+EC
+쓰러지/VV 거나/EC
+쓰러지/VV 다/EC
+쓰러진/VV+ETM
+쓰러질/VV+ETM
+쓰레기/NNG
+쓰리/VA 고/EC
+쓰리/VA 다/EC
+쓰리/VA 며/EC
+쓰린/VA+ETM
+쓰이/VV 다/EC
+쓴/VV+ETM
+쓴웃음/NNG
+쓸데없/VA 거나/EC
+쓸데없/VA 는/ETM
+쓸데없/VA 다/EC
+쓸데없/VA 음/ETN
+쓸데없이/MAG
+쓸모없/VA 고/EC
+쓸모없/VA 다/EC
+쓸모없이/MAG
+쓸쓸/XR
+쓸쓸/XR 하/XSA 게/EC
+쓸쓸/XR 하/XSA 고/EC
+쓸쓸/XR 하/XSA 다/EC
+쓸쓸/XR 한/XSA+ETM
+쓸쓸/XR 함/XSA+ETN
+쓸쓸히/MAG
+씀벅/MAG 대/VV 다/EC
+씁쓰레/MAG
+씁쓰레/MAG 하/VV 게/EC
+씁쓰레/MAG 하/VV 다/EC
+씁쓰름/XR 하/XSA 다/EC
+씁쓸/XR 하/XSA 다/EC
+씁씁/UNKNOWN 하/VV 다/EC
+씨/NNG 끄/VV 럽/NNP 다/VCP+EC
+씹/NNG 새끼/NNG
+씹/VV 다/EC
+아/VV 수록/EC
+아까/MAG 워/NNG 하/XSV 다/EC
+아까운/VA+ETM
+아까움/VA+ETN
+아까워서/VA+EC
+아깝/VA 게/EC
+아깝/VA 다/EC
+아니/MAG 하/VV 거나/EC
+아니/MAG 하/VV 게/EC
+아니/MAG 하/VV 고/EC
+아니/MAG 하/VV 기/ETN
+아니/MAG 하/VV 는/ETM
+아니/MAG 하/VV 다/EC
+아니/MAG 하/VV 다고/EC
+아니/MAG 하/VV 면서/EC
+아니/MAG 하/VV 여/EC
+아니/MAG 하/VV 여서/EC
+아니/MAG 한다고/VV+EC
+아니/MAG 함/VV+EC
+아니꼬운/VA+ETM
+아니꼬울/VA+ETM
+아니꼽/VA 거나/EC
+아니꼽/VA 다/EC
+아둔/XR 하/XSA 고/EC
+아둔/XR 하/XSA 다/EC
+아득/XR 하/XSA 고/EC
+아득/XR 하/XSA 다/EC
+아리/VA 고/EC
+아리다/NNP
+아리송/XR
+아무렇/VA 게나/EC
+아물아물/MAG
+아쉬운/VA+ETM
+아쉬움/NNG
+아쉬워하/VV 는/ETM
+아쉬워하/VV 다/EC
+아쉽/VA 거나/EC
+아쉽/VA 다/EC
+아슬아슬/MAG
+아슬아슬/MAG 하/VV 고/EC
+아슬아슬/MAG 하/VV 다/EC
+아찔/XR
+아찔/XR 하/XSA 다/EC
+아찔/XR 하/XSA 여/EC
+아찔/XR 하/XSA 여/EC 지/VX 다/EC
+아찔/XR 한/XSA+ETM
+아첨/NNG
+아첨/NNG 하/XSA 고/EC
+아첨/NNG 하/XSA 다/EC
+아첨/NNG 하/XSA 여/EC
+아첨/NNG 하/XSV 는/ETM
+아첨/NNG 함/XSA+ETN
+아파/NNG 함/XSV+ETN
+아파/VA+EC
+아파서/VA+EC
+아파하/VV 는/ETM
+아파하/VV 다/EC
+아프/VA 거나/EC
+아프/VA 게/EC
+아프/VA 고/EC
+아프/VA 다/EC
+아프/VA 며/EC
+아프/VA 면서/EC
+아픈/VA+ETM
+아플/VA+ETM
+아픔/NNG
+악/NNG
+악영향/NNG
+악/XPN 의의/NNG
+악당/NNG
+악독/NNG
+악독/NNG 하/XSV 게/EC
+악독/NNG 하/XSV 다/EC
+악독/NNG 한/XSA+ETM
+악마/NNG
+악명/NNG 높/VA 다/EC
+악명/NNG 높/VA 은/ETM
+악몽/NNG
+악성/NNG
+악순환/NNG
+악업/NNG
+악연/NNG
+악의/NNG
+악의/NNG 적/XSN
+악의/NNG 적/XSN 인/VCP+ETM
+악인연/NNG
+악지/NNG
+악취/NNG
+악플/NNG
+악하/VA 고/EC
+악하/VA 다/EC
+악한/VA+ETM
+악화/NNG
+악화/NNG 되/XSV 다/EC
+안/MAG 놓/VV 다/EC
+안/MAG 놓여/VV+EC
+안/MAG 되/VV 거나/EC
+안/MAG 되/VV 고/EC
+안/MAG 되/VV 는/ETM
+안/MAG 되/VV 다/EC
+안/MAG 되/VV 어/EC
+안/MAG 된다/VV+EC
+안/MAG 될까/VV+EC
+안/MAG 들/VV 거나/EC
+안/MAG 좋/VA 은/ETM
+안구/NNG 테러/NNG
+안궁/NNP
+안달/NNG
+안달/NNG 나/VV 다/EC
+안달/NNG 나/VV 서/EC
+안달복달/NNG
+안달복달/NNG 하/XSV 다/EC
+안물/NNG
+안습/NNG
+안심/NNG 찮다/UNKNOWN
+안쓰러워하/VV 다/EC
+안쓰럽/VA 다/EC
+안절부절/MAG
+안절부절/MAG 못/MAG 하/VV 는/ETM
+안절부절/MAG 못/MAG 하/VV 다/EC
+안절부절/MAG 하/VV 다/EC
+안타까울/VA+ETM
+안타까워/VA+EC
+안타까워/VA+EC 하/VV 는/ETM
+안타까워/VA+EC 하/VV 다/EC
+안타까워서/VA+EC
+안타깝/VA 거나/EC
+안타깝/VA 게/EC
+안타깝/VA 고/EC
+안타깝/VA 다/EC
+않/VV 거나/EC
+않/VV 게/EC
+않/VV 고/EC
+않/VV 는다/EC
+않/VV 다/EC
+않/VV 아/EC
+않/VV 아서/EC
+않/VV 았/EP 던/ETM
+않/VV 으나/EC
+않/VV 은/ETM
+않/VV 음/ETN
+않/VX 는/ETM
+알/NNG 못/NNG
+알/NNG 쏭/NNG 하/XSV 다/EC
+알/NNG 짝/NNG 지근/NNG
+알/NNG 짤/VV+ETM 지근/NNG
+알/NNG 짤/VV+ETM 지근/XR 한/XSA+ETM
+알쏭달쏭/MAG
+알알/XR 한/XSA+ETM
+앍/VV 은/ETM
+앓/NNG
+앓/VV 거나/EC
+앓/VV 고/EC
+앓/VV 는/ETM
+앓/VV 다/EC
+앓/VV 아도/EC
+앓/VV 아서/EC
+앓/VV 음/ETN
+암/NNG
+암담/XR
+암담/XR 한/XSA+ETM
+암상/NNG 스러운/XSA+ETM
+암상/NNG 스럽/XSA 게/EC
+암상/NNG 스럽/XSA 다/EC
+압력/NNG 가하/VV 고/EC
+압력/NNG 가하/VV 다/EC
+압력/NNG 가하/VV 여/EC
+압박/NNG 하/XSV 여/EC
+압박감/NNG
+압억/NNG
+압억/NNG 되/XSV 다/EC
+앙갚음/NNG
+앙갚음/NNG 하/XSV 려고/EC
+앙갚음/NNG 할/XSV+ETM
+앙칼지/VA 게/EC
+앙칼지/VA 다/EC
+앙큼/XR 하/XSA 게/EC
+앙큼/XR 하/XSA 다/EC
+앞잡이/NNG
+애/NNG 먹/VV 는/ETM
+애/NNG 먹/VV 다/EC
+애/NNG 써/VV+EC
+애/NNG 써서/VV+EC
+애/NNG 쓰/VV 는/ETM
+애/NNG 쓰/VV 다/EC
+애/NNG 태우/VV 다/EC
+애달파/VA+EC 하/VV 는/ETM
+애달파/VA+EC 하/VV 다/EC
+애달프/VA 게/EC
+애달프/VA 다/EC
+애도/NNG 함/XSV+ETN
+애석/NNG
+애석/NNG 하/XSV 다/EC
+애쓰/VV 는/ETM
+애쓰/VV 다/EC
+애쓰/VV 며/EC
+애옥살림/NNG
+애절/XR 하/XSA 다/EC
+애절/XR 한/XSA+ETM
+애처로이/MAG
+애처롭/VA 거나/EC
+애처롭/VA 게/EC
+애처롭/VA 고/EC
+애처롭/VA 다/EC
+애타/VV 는/ETM
+애탄/NNG
+애통/NNG
+애통/NNG 하/XSV 다/EC
+애통/NNG 할/XSV+ETM
+애통히/MAG
+야단/NNG 스러워/XSA+EC 지/VX 는/ETM
+야단/NNG 스럽/XSA 게/EC
+야단/NNG 스럽/XSA 고/EC
+야단/NNG 스럽/XSA 다/EC
+야단맞/VV 다/EC
+야멸치/VA 게/EC
+야멸치/VA 고/EC
+야멸치/VA 다/EC
+야박/NNG 하/XSV 다/EC
+야박/XR 스럽/XSA 다/EC
+야박히/MAG
+야비/XR 하/XSA 다/EC
+야비/XR 한/XSA+ETM
+야살/NNG 스러운/XSA+ETM
+야살/NNG 스러움/XSA+ETN
+야살/NNG 스럽/XSA 게/EC
+야살/NNG 스럽/XSA 다/EC
+야속/NNG
+야속/NNG 스럽/XSA 다/EC
+야속/NNG 하/XSA 게/EC
+야속/NNG 하/XSA 다/EC
+야속스레/MAG
+야속히/MAG
+야위/VV 거나/EC
+야위/VV 고/EC
+야위/VV 는/ETM
+야위/VV 다/EC
+야위/VV 어/EC
+야윈/VV+ETM
+야유/NNG 할/XSV+ETM
+야유/NNP
+야풍/NNG
+약/NNG
+약/NNG 올라/VV+EC
+약/NNG 올리/VV 거나/EC
+약/NNG 올리/VV 다/EC
+약빠르/VA 고/EC
+약빠르/VA 다/EC
+약빠른/VA+ETM
+약삭빠르/VA 다/EC
+약삭빠른/VA+ETM
+약점/NNG
+약탈/NNG
+약탈/NNG 하/XSV 거나/EC
+약탈/NNG 하/XSV 다/EC
+약하/VA 거나/EC
+약하/VA 고/EC
+약하/VA 다/EC
+약하/VA 면/EC
+약하/VA 여/EC
+약하/VA 여/EC 지/VX 는/ETM
+약하/VA 여/EC 지/VX 다/EC
+약하/VA 여서/EC
+약하/VA 여져서/EC+VX+EC
+약하/VA 여진/EC+VX+ETM
+약한/VA+ETM
+약함/VA+ETN
+약해/VA+EC 지/VX 게/EC
+약해/VA+EC 지/VX 는/ETM
+약해/VA+EC 지/VX 다/EC
+약해져서/VA+EC+VX+EC
+약해졌/VA+EC+VX+EP 다/EC
+약해진/VA+EC+VX+ETM
+얄/NNG 망/NNG 궂/VA 고/EC
+얄/NNG 망/NNG 궂/VA 다/EC
+얄/NNG 망/NNG 궃/VV 다/EC
+얄미운/VA+ETM
+얄미울/VA+ETM
+얄미움/VA+ETN
+얄밉/VA 게/EC
+얄밉/VA 고/EC
+얄밉/VA 다/EC
+얋다/UNKNOWN
+얌치/NNG 없/VA 다/EC
+얌치/NNG 없이/MAG
+얕/VA 다/EC
+얕/VA 은/ETM
+얕보/VV 다/EC
+얕잡/VV 거나/EC
+얕잡/VV 다/EC
+얕잡/VV 아/EC
+어겨/VV+EC
+어그러뜨리/VV 는/ETM
+어그러뜨리/VV 다/EC
+어그러지/VV 고/EC
+어그러지/VV 다/EC
+어그러진/VV+ETM
+어긋나/VV 게/EC
+어긋나/VV 고/EC
+어긋나/VV 는/ETM
+어긋나/VV 다/EC
+어긋나/VV+EC
+어긋남/NNG
+어기/VV 다/EC
+어기/VV 면서/EC
+어두운/VA+ETM
+어두워/VA+EC
+어두침침/XR 하/XSA 고/EC
+어둑/XR 하/XSA 게/EC
+어둑/XR 하/XSA 다/EC
+어둑/XR 한/XSA+ETM
+어둡/VA 거나/EC
+어둡/VA 고/EC
+어둡/VA 다/EC
+어려우/VA 며/EC
+어려운/VA+ETM
+어려울/VA+ETM
+어려움/NNG
+어려워/VA+EC
+어려워서/VA+EC
+어려워하/VA+EC+VX 는/ETM
+어려워하/VA+EC+VX 다/EC
+어렴풋/XR 하/XSA 다/EC
+어렵/VA 거나/EC
+어렵/VA 게/EC
+어렵/VA 고/EC
+어렵/VA 다/EC
+어름어름/MAG
+어리/NNG 삥삥/MAG 하/VV 다/EC
+어리/VA 벙/UNKNOWN
+어리둥절/XR
+어리둥절/XR 하/XSA 여/EC
+어리벙벙/XR
+어리벙벙/XR 하/XSA 게/EC
+어리벙벙/XR 하/XSA 다/EC
+어리벙벙/XR 하/XSA 여/EC
+어리벙벙/XR 한/XSA+ETM
+어리석/VA 게/EC
+어리석/VA 고/EC
+어리석/VA 다/EC
+어리석/VA 어/EC
+어리석/VA 어서/EC
+어리석/VA 으며/EC
+어리석/VA 은/ETM
+어리석/VA 음/ETN
+어리숙/XR 하/XSA 다/EC
+어물어물/MAG
+어물어물/MAG 하/VV 다/EC
+어물쩡/MAG
+어색/XR
+어색/XR 스럽/XSA 다/EC
+어색/XR 하/XSA 거나/EC
+어색/XR 하/XSA 게/EC
+어색/XR 하/XSA 고/EC
+어색/XR 하/XSA 다/EC
+어색/XR 한/XSA+ETM
+어설프/VA 게/EC
+어설프/VA 고/EC
+어설프/VA 다/EC
+어설프/VA 며/EC
+어설픈/VA+ETM
+어수룩/XR 하/XSA 고/EC
+어수룩/XR 하/XSA 다/EC
+어수룩/XR 한/XSA+ETM
+어수선/NNG
+어수선/NNG 하/XSV 거나/EC
+어수선/NNG 하/XSV 게/EC
+어수선/NNG 하/XSV 고/EC
+어수선/NNG 하/XSV 다/EC
+어수선/NNG 하/XSV 여/EC
+어수선/XR 한/XSA+ETM
+어수선/XR 함/XSA+ETN
+어울리/VV 지/EC
+어이없/VA 다/EC
+어이없/VA 을/ETM
+어정쩡히/MAG
+어줍/VA 거나/EC
+어줍잖/VA 다/EC
+어중간/XR 한/XSA+ETM
+어지러우/VA 며/EC
+어지러운/VA+ETM
+어지러울/VA+ETM
+어지러워/VA+EC
+어지러워/VA+EC 지/VX 는/ETM
+어지러워/VA+EC 지/VX 다/EC
+어지러워서/VA+EC
+어지럼/NNG
+어지럼증/NNG
+어지럽/VA 거나/EC
+어지럽/VA 게/EC
+어지럽/VA 고/EC
+어지럽/VA 다/EC
+어지럽/VA 도록/EC
+어지르/VV 다/EC
+어질어질/MAG
+어쭙잖/VA 다/EC
+어찔어찔/MAG
+어찔어찔/MAG 하/VV 다/EC
+어찔어찔/MAG 한/XSA+ETM
+어처구니/NNG
+어처구니없/VA 는/ETM
+어처구니없/VA 다/EC
+어처구니없/VA 다고/EC
+어처구니없이/MAG
+억/NR 지감/NNG
+억누르/VV 거나/EC
+억누르/VV 고/EC
+억누르/VV 는/ETM
+억누르/VV 다/EC
+억누름/VV+ETN
+억눌러/VV+EC
+억눌리/VV 다/EC
+억세/VA 다/EC
+억세/VA 어/EC
+억압/NNG
+억압/NNG 되/XSV 다/EC
+억울/XR 하/XSA 거나/EC
+억울/XR 하/XSA 게/EC
+억울/XR 하/XSA 다/EC
+억울/XR 하/XSA 여/EC
+억울/XR 한/XSA+ETM
+억울/XR 함/XSA+ETN
+억제/NNG 하/XSV 다/EC
+억제/NNG 하/XSV 며/EC
+억지/NNG
+억지/NNG 스러운/XSA+ETM
+억지/NNG 스럽/XSA 다/EC
+억지로/MAG
+억척/NNG 스러운/XSA+ETM
+억척/NNG 스럽/XSA 게/EC
+억척/NNG 스럽/XSA 고/EC
+억척/NNG 스럽/XSA 다/EC
+언짢/VA 거나/EC
+언짢/VA 게/EC
+언짢/VA 고/EC
+언짢/VA 다/EC
+언짢/VA 아/EC 지/VX 다/EC
+언짢/VA 아서/EC
+언짢/VA 았/EP 던/ETM
+언짢/VA 은/ETM
+언짢/VA 을/ETM
+언짢/VA 음/ETN
+언짢아하/VV 다/EC
+언짢이/MAG
+얻어맞/VV 다/EC
+얻어맞/VV 을/ETM
+얼/NNG 빠져/VV+EC
+얼/NNG 빠지/VV 다/EC
+얼/NNG 빠짐/VV+ETN
+얼기설기/MAG
+얼기설기/MAG 하/VV 다/EC
+얼떨떨/XR 하/XSA 다/EC
+얼떨떨/XR 하/XSA 여/EC
+얼떨떨/XR 한/XSA+ETM
+얼떨떨/XR 해/XSA+EC 지/VX 다/EC
+얼떨떨/XR 해/XSA+EC 하/VV 다/EC
+얼렁뚱땅/MAG
+얼렁뚱땅/MAG 하/VV 는/ETM
+얼렁뚱땅/MAG 하/VV 여/EC
+얼룩덜룩/MAG 하/VV 게/EC
+얼버무리/VV 다/EC
+얼빠지/VV 다/EC
+얼빠진/VV+ETM
+얼얼/XR 하/XSA 다/EC
+얼얼/XR 한/XSA+ETM
+얽/VV 은/ETM
+얽매여서/VV+EC
+얽매이/VV 다/EC
+얽혀서/VV+EC
+얽히/VV 거나/EC
+얽히/VV 다/EC
+엄격/XR 하/XSA 게/EC
+엄격/XR 하/XSA 다/EC
+엄격/XR 하/XSA 여/EC
+엄살/NNG
+업귀/NNG
+업신여겨/VV+EC
+업신여겨/VV+EC 지/VX 거나/EC
+업신여기/VV 거나/EC
+업신여기/VV 고/EC
+업신여기/VV 는/ETM
+업신여기/VV 다/EC
+업신여기/VV 어/EC
+업신여기/VV 어/EC 지/VX 거나/EC
+업신여김/NNG
+없/VA 거나/EC
+없/VA 게/EC
+없/VA 고/EC
+없/VA 는/ETM
+없/VA 다/EC
+없/VA 어/EC
+없/VA 어/EC 져/VX+EC
+없/VA 어/EC 지/VX 거나/EC
+없/VA 어/EC 지/VX 게/EC
+없/VA 어/EC 지/VX 고/EC
+없/VA 어/EC 지/VX 다/EC
+없/VA 어/EC 지/VX 며/EC
+없/VA 어/EC 진/VX+ETM
+없/VA 어서/EC
+없/VA 으며/EC
+없/VA 으면서/EC
+없/VA 을/ETM
+없/VA 음/ETN
+없애/VV 거나/EC
+없애/VV 다/EC
+없애/VV+EC
+없애/VV+EC 버리/VX 는/ETM
+없애/VV+EC 버리/VX 다/EC
+없애/VV+EC 버림/VX+ETN
+없어짐/NNG
+없이/MAG
+엉너리/NNG
+엉뚱/XR 하/XSA 게/EC
+엉뚱/XR 하/XSA 고/EC
+엉뚱/XR 하/XSA 다/EC
+엉뚱/XR 한/XSA+ETM
+엉성/XR
+엉성/XR 하/XSA 고/EC
+엉성/XR 하/XSA 다/EC
+엉성/XR 한/XSA+ETM
+엉큼/XR 하/XSA 게/EC
+엉큼/XR 하/XSA 고/EC
+엉큼/XR 하/XSA 다/EC
+엉큼/XR 한/XSA+ETM
+엉터리/NNG
+엎어지/VV 게/EC
+엎어지/VV 는/ETM
+엎어지/VV 다/EC
+여리/VA 다/EC
+여위/VV 거나/EC
+여위/VV 게/EC
+여위/VV 게/EC 된다/VV+EC
+여위/VV 게/EC 하/VV 다/EC
+여위/VV 고/EC
+여위/VV 다/EC
+여위/VV 어/EC
+여위/VV 우다/EC
+여윈/VV+ETM
+역겹/VA 다/EC
+역겹/VA 도록/EC
+역경/NNG
+역전패/NNG
+역정/NNG
+역증/NNG
+역한/NNG
+연덕/NNP
+연민/NNG
+연민/NNG 스럽/XSA 다/EC
+연민/NNG 하/XSA 다/EC
+연약/XR 하/XSA 게/EC
+열/NR 나/NP
+열/NR 나/VV 고/EC
+열/NR 나/VV 며/EC
+열/NR 높/VA 고/EC
+열/NR 높/VA 아/EC 지/VX 는/ETM
+열받/VV 다/EC
+열병/NNG
+열성병/NNG
+열없/VA 다/EC
+열없이/MAG
+열증/NNG
+열폭/NNG
+염려/NNG
+염병/NNG
+염증/NNG
+염치없/VA 다/EC
+염치없이/MAG
+엿/NNG
+엿보/VV 거나/EC
+영악/NNG 하/XSV 다/EC
+영악/XR 한/XSA+ETM
+영정/NNG
+예민/NNP
+예민/XR 하/XSA 거나/EC
+옘병/NNG
+옘병/NNG 할/XSV+ETM
+오그라들/VV 다/EC
+오그라들/VV 며/EC
+오답/NNG
+오도/NNG
+오도/NNG 되/XSV 다/EC
+오도/NNG 하/XSV 다/EC
+오래/MAG 되/VV 거나/EC
+오래/MAG 되/VV 다/EC
+오래/MAG 된/VV+ETM
+오류/NNG
+오보/NNG
+오슬오슬/NNG 하/XSV 다/EC
+오싹/MAG
+오싹/MAG 대/VV 다/EC
+오싹/MAG 하/VV 다/EC
+오싹거리/VV 다/EC
+오싹오싹/MAG 하/VV 다/EC
+오염/NNG
+오염/NNG 되/XSV 다/EC
+오염/NNG 된/XSV+ETM
+오용/NNG 하/XSV 다/EC
+오용/NNP
+오크/NNG
+오한/NNP
+오해/NNG
+오해/NNG 하/XSV 다/EC
+옥신각신/NNG
+옥신각신/NNG 하/XSV 며/EC
+옭/VV 아/EC 묶/VV 다/EC
+옭/VV 아/EC 묶음/NNG
+옭아매/VV 다/EC
+옮/VV 다/EC
+옮/VV 아/EC
+옹졸/XR
+옹졸/XR 하/XSA 게/EC
+옹졸/XR 하/XSA 고/EC
+옹졸/XR 하/XSA 다/EC
+옹졸/XR 한/XSA+ETM
+와해/NNG 하/XSV 거나/EC
+와해/NNG 하/XSV 다/EC
+왕따/NNG
+외로운/VA+ETM
+외로움/NNG
+외로워/VA+EC
+외로워/VA+EC 하/VV 다/EC
+외로이/MAG
+외롭/VA 거나/EC
+외롭/VA 다/EC
+외설/NNG
+외설/NNG 스러운/XSA+ETM
+외설/NNG 스럽/XSA 다/EC
+외톨이/NNG
+요구/NNG 하/XSV 다/EC
+요란/NNG 하/XSV 게/EC
+요란/NNG 하/XSV 고/EC
+요란/NNG 하/XSV 다/EC
+요란/XR 스러운/XSA+ETM
+요란/XR 스럽/XSA 게/EC
+요란/XR 스럽/XSA 다/EC
+요망/NNG 스러운/XSA+ETM
+요망/NNG 스러움/XSA+ETN
+요망/NNG 스럽/XSA 게/EC
+요망/NNG 스럽/XSA 다/EC
+요망/NNG 하/XSV 다/EC
+요망/NNG 한/XSA+ETM
+요사/NNG 스러운/XSA+ETM
+요사/NNG 스럽/XSA 다/EC
+요사/NNG 한/XSA+ETM
+욕/NNG
+욕/NNG 되/XSV 게/EC
+욕/NNG 되/XSV 고/EC
+욕/NNG 되/XSV 다/EC
+욕/NNG 하/XSV 거나/EC
+욕/NNG 하/XSV 다/EC
+욕/NNG 하/XSV 며/EC
+욕/NNG 하/XSV 여/EC
+욕망/NNG
+욕설/NNG
+욕심/NNG
+욕심/NNG 부리/VV 다/EC
+욕심/NNG 스럽/XSA 다/EC
+욕심껏/MAG
+욕심꾸러기/NNG
+욕심쟁이/NNG
+욕지기/NNG
+욕함/VV+ETN
+우/VV 그러/EC 져/VX+EC
+우/VV 는/ETM
+우격다짐/NNG
+우그러지/VV 게/EC
+우그러지/VV 고/EC
+우그러지/VV 다/EC
+우그러진/VV+ETM
+우기/NNG
+우기/VV 거나/EC
+우기/VV 다/EC
+우라질/VV+ETM
+우락부락/MAG
+우락부락/MAG 하/VV 고/EC
+우락부락/MAG 하/VV 다/EC
+우려/NNG 스럽/XSA 다/EC
+우려/NNG 하/XSA 다/EC
+우묵/MAG 해/VV+EC 지/VX 다/EC
+우물/NNG 거리/XSV 다/EC
+우물/NNG 거리/XSV 며/EC
+우물/NNG 거림/XSV+ETN
+우물우물/MAG 하/VV 며/EC
+우물쭈물/MAG
+우물쭈물/MAG 하/VV 는/ETM
+우물쭈물/MAG 하/VV 다/EC
+우스꽝/XR 스럽/XSA 다/EC
+우스꽝/XR 스레/XSA+EC
+우스운/VA+ETM
+우습/VA 게/EC
+우습/VA 고/EC
+우습/VA 다/EC
+우악/XR 스러운/XSA+ETM
+우악/XR 스러움/XSA+ETN
+우악/XR 스럽/XSA 게/EC
+우악/XR 스럽/XSA 다/EC
+우울/NNG
+우울/NNG 하/XSA 게/EC
+우울/NNG 하/XSA 다/EC
+우울/NNG 하/XSA 여/EC
+우울/NNG 하/XSA 여/EC 지/VX 기/ETN
+우울/NNG 한/XSA+ETM
+우울증/NNG
+우유부단/NNG 하/XSA 다/EC
+우중충/XR 하/XSA 다/EC
+우중충히/MAG
+우직/NNG 하/XSV 고/EC
+우직/XR 스럽/XSA 게/EC
+우직/XR 스럽/XSA 다/EC
+우치/NNG
+울/VV 거나/EC
+울/VV 고/EC
+울/VV 기/ETN
+울/VV 다/EC
+울/VV 려고/EC
+울/VV 어/EC
+울걱/MAG
+울걱/MAG 거리/XSV 다/EC
+울걱/MAG 대/VV 다/EC
+울걱/MAG 하/VV 다/EC
+울걱울걱/MAG
+울꺽/MAG 대/VV 다/EC
+울렁거리/VV 는/ETM
+울렁거리/VV 다/EC
+울렁대/VV 다/EC
+울리/VV 다/EC
+울보/NNG
+울부짖/VV 다/EC
+울부짖/VV 음/ETN
+울분/NNG
+울분/NNG 하/XSA 다/EC
+울상/NNG
+울음/NNG
+울음/NNG 소리/NNG
+울컥/MAG 대/VV 다/EC
+울컥/MAG 하/VV 다/EC
+울화/NNG
+움직이/VV 는/ETM
+움직이/VV 다/EC
+움찔/MAG 하/VV 다/EC
+움츠러/VV+EC 든다/VX+EC
+움츠러드/VV 는/ETM
+움츠러든/VV+ETM
+움츠러들/VV 거나/EC
+움츠러들/VV 다/EC
+움츠리/VV 는/ETM
+움츠리/VV 다/EC
+움츠린다/VV+EC
+움츠림/NNG
+웃음거리/NNG
+원대/NNG 하/XSV 다/EC
+원만/XR 하/XSA 지/EC 않/VX 고/EC
+원망/NNG
+원망/NNG 스럽/XSA 게/EC
+원망/NNG 스럽/XSA 고/EC
+원망/NNG 스럽/XSA 다/EC
+원망/NNG 하/XSV 는/ETM
+원망/NNG 하/XSV 다/EC
+원망/NNG 하/XSV 듯/EC
+원인/NNG 불명/NNG
+원치/VV+EC 않/VX 은/ETM
+원통/NNG 하/XSV 거나/EC
+원통/NNG 하/XSV 게/EC
+원통/NNG 하/XSV 고/EC
+원통/NNG 하/XSV 다/EC
+원통/NNG 하/XSV 여/EC
+원통/XR 한/XSA+ETM
+원한/NNG
+원한/VV+ETM
+웬수/NNP
+위급/XR 한/XSA+ETM
+위기/NNG
+위기/NNG 적/XSN
+위반/NNG 되/XSV 다/EC
+위반/NNG 되/XSV 어/EC
+위반/NNG 하/XSV 다/EC
+위반/NNG 한/XSV+ETM
+위배/NNG 하/XSV 다/EC
+위법/NNG
+위장/NNG 염의/NNG
+위장염/NNG
+위조/NNG
+위조/NNG 하/XSV 거나/EC
+위조/NNG 하/XSV 다/EC
+위조/NNG 함/XSV+ETN
+위축/NNG
+위축/NNG 되/XSV 다/EC
+위축감/NNG
+위태/XR 로울/XSA+ETM
+위태/XR 로움/XSA+ETN
+위태/XR 롭/XSA 거나/EC
+위태/XR 롭/XSA 게/EC
+위태/XR 롭/XSA 다/EC
+위태/XR 하/XSA 여/EC
+위태로운/NNP
+위험/NNG
+위험/NNG 하/XSA 다/EC
+위험/NNG 한/XSA+ETM
+위협/NNG
+위협/NNG 적/XSN 거나/EC
+위협/NNG 하/XSV 거나/EC
+위협/NNG 하/XSV 게/EC
+위협/NNG 하/XSV 기/ETN
+위협/NNG 하/XSV 는/ETM
+위협/NNG 하/XSV 다/EC
+위협/NNG 하/XSV 여/EC
+위협/NNG 한/XSV+ETM
+유감/NNG
+유감/NNG 스럽/XSA 다/EC
+유감스러운/NNP
+유들유들/MAG 한/XSA+ETM
+유죄/NNG
+유치/XR 하/XSA 다/EC
+으름장/NNG
+으스대/VV 는/ETM
+으스대/VV 다/EC
+으스대/VV 며/EC
+으스스/MAG
+으시시/MAG
+으앙/MAG
+윽박/NNG
+윽박/VV 다/EC
+윽박지르/VV 다/EC
+윽박질/NNG
+윽박질/NNG 하/XSV 다/EC
+을러대/VV 고/EC
+을러대/VV 다/EC
+을러대/VV 어/EC
+음기/NNG
+음란/NNG 하/XSA 고/EC
+음란/NNG 하/XSA 다/EC
+음란/NNG 한/XSA+ETM
+음모/NNG
+음산/XR 하/XSA 고/EC
+음산/XR 하/XSA 다/EC
+음울/XR 하/XSA 다/EC
+음침/NNG 하/XSV 다/EC
+음침/XR 한/XSA+ETM
+음침/XR 함/XSA+ETN
+음탕/XR 스럽/XSA 다/EC
+음탕/XR 하/XSA 다/EC
+음흉/XR 하/XSA 고/EC
+음흉/XR 하/XSA 다/EC
+음흉/XR 한/XSA+ETM
+응석/NNG
+응어리지/VV 다/EC
+응어리진/VV+ETM
+의기소침/NNG
+의기소침/NNG 하/XSA 다/EC
+의기저상/NNG
+의기저상/NNG 하/XSV 다/EC
+의식/NNG 불명/NNG
+의심/NNG
+의심/NNG 되/XSV 다/EC
+의심/NNG 스러운/XSA+ETM
+의심/NNG 스럽/XSA 거나/EC
+의심/NNG 스럽/XSA 고/EC
+의심/NNG 스럽/XSA 다/EC
+의심/NNG 하/XSA 다/EC
+의심/NNG 하/XSV 는/ETM
+의심나/VV 다/EC
+의심쩍/VA 다/EC
+의아/NNG 스러운/XSA+ETM
+의아/NNG 스럽/XSA 다/EC
+의아/NNG 하/XSA 다/EC
+의아심/NNG
+의혹/NNG
+이기/NNG 적/XSN 인/VCP+ETM
+이기주의/NNG
+이랬다저랬다/VV+EP+EC+VV+EP+EC
+이별/NNG
+이별/NNG 하/XSV 다/EC
+이상/NNG
+이상/NNG 하/XSV 게/EC
+이상/NNG 하/XSV 다/EC
+이죽이죽/MAG
+이혼/NNG
+이혼/NNG 하/XSV 다/EC
+익살/NNG 바르/VV 다/EC
+인사불성/NNG
+인상/NNG
+인색/NNG 하/XSA 게/EC
+인색/NNG 하/XSA 다/EC
+인색한/NNG
+인정머리/NNG
+일러바치/VV 다/EC
+일방/NNG 적/XSN
+일방/NNG 적/XSN 인/VCP+ETM
+일진/NNG
+잃/VV 거나/EC
+잃/VV 게/EC
+잃/VV 고/EC
+잃/VV 는/ETM
+잃/VV 는다/EC
+잃/VV 다/EC
+잃/VV 어/EC
+잃/VV 어/EC 버리/VX 다/EC
+잃/VV 었/EP 다/EC
+잃/VV 은/ETM
+잃/VV 을/ETM
+잃/VV 음/ETN
+임질/NNG
+잉여/NNG
+잊어버리/VV 고/EC
+잊어버리/VV 다/EC
+자/NNG 해/XSV+EC
+자괴/NNG
+자괴감/NNG
+자기/NP 중심/NNG 적/XSN
+자름/NNG
+자린/NNG
+자린/NNG 하/XSV 다/EC
+자린/NNG 한/XSA+ETM
+자린고비/NNG
+자릿/MAG 하/VV 다/EC
+자릿/MAG 한/XSA+ETM
+자릿자릿/MAG 하/VV 다/EC
+자빠지/VV 거나/EC
+자빠지/VV 는/ETM
+자빠지/VV 다/EC
+자송/NNG
+자송/NNG 하/XSV 다/EC
+자식/NNG
+자지러지/VV 게/EC
+자지러지/VV 는/ETM
+자지러지/VV 다/EC
+자지러지/VV 도록/EC
+자지러질/VV+ETM
+자질구레/XR 하/XSA 다/EC
+자질구레/XR 한/XSA+ETM
+자책/NNG
+자책/NNG 하/XSV 다/EC
+자폐/NNG 하/XSV 다/EC
+자포/NNG 자기/NP
+자포/NNG 하/XSV 다/EC
+자포자기/NNG 하/XSA 다/EC
+자해/NNG 하/XSV 다/EC
+작/NNG 붕/NNG
+잔꾀/NNG
+잔부끄러움/NNG
+잔소리/NNG
+잔인/NNG 하/XSA 다/EC
+잔인/NNG 한/XSA+ETM
+잗달/UNKNOWN 고/EC
+잗달다/UNKNOWN
+잘/MAG 망/XR 스럽/XSA 게/EC
+잘/MAG 망/XR 스럽/XSA 다/EC
+잘/MAG 아/VV 지다/EC+VX+EC
+잘/VA 아/EC 지/VX 고/EC
+잘리/VV 다/EC
+잘못/MAG
+잘못/MAG 되/VV 기/ETN
+잘못/MAG 되/VV 는/ETM
+잘못/MAG 되/VV 다/EC
+잘못/MAG 되/VV 어/EC
+잘못/MAG 되/VV 었/EP 거나/EC
+잘못/MAG 되/VV 었/EP 을/ETM
+잘못/MAG 된/VV+ETM
+잘못/MAG 하/VV 거나/EC
+잘못/MAG 하/VV 게/EC
+잘못/MAG 하/VV 다/EC
+잘못/MAG 하/VV 다가/EC
+잘못/MAG 하/VV 면/EC
+잘못/MAG 하/VV 여/EC
+잘못/MAG 한/XSA+ETM
+잘못/MAG 함/XSA+ETN
+잘못/NNG
+잠기/NNG
+잠기/VV 다/EC
+잡놈/NNG
+잡되/VA 고/EC
+잡되/VA 다/EC
+잡스러운/VA+ETM
+잡스럽/VA 게/EC
+잡스럽/VA 다/EC
+장난/NNG 스럽/XSA 게/EC
+장난삼/VV 아/EC
+장애/NNG
+장애/NNG 인/VCP+ETM
+장애물/NNG
+재난/NNG
+재미없/VA 는/ETM
+재미없/VA 다/EC
+재발/NNG 하/XSV 거나/EC
+재발/NNG 하/XSV 다/EC
+재수/NNG
+재수없/VA 다/EC
+재앙/NNG
+재촉/NNG
+재촉/NNG 하/XSV 다/EC
+재촉/NNG 하/XSV 여/EC
+재해/NNG
+잴/NNG 뚝/MAG 대/VV 는/ETM
+잴/NNG 뚝/MAG 대/VV 다/EC
+저/NP
+저급/NNG
+저급/NNG 하/XSA 다/EC
+저급/NNG 한/XSA+ETM
+저리/VA 거나/EC
+저리/VA 고/EC
+저리/VA 다/EC
+저린/VA+ETM
+저릿/XR 하/XSA 다/EC
+저릿/XR 한/XSA+ETM
+저버리/VV 다/EC
+저주/NNG
+저주/NNG 하/XSV 는/ETM
+저주/NNG 하/XSV 다/EC
+저주/NNG 하/XSV 여/EC
+저지르/VV 는/ETM
+저지르/VV 다/EC
+저지른/VV+ETM
+저질러진/VV+EC+VX+ETM
+저품질/NNG
+저하/NNG 되/XSV 다/EC
+저하/NNG 된/XSV+ETM
+저하/NNG 시키/XSV 는/ETM
+저하/NNG 시키/XSV 다/EC
+적/NNG
+적/VA 고/EC
+적다/NNG
+적대/NNG 적/XSN
+적대/NNG 적/XSN 다/EC
+적대/NNG 적/XSN 인/VCP+ETM
+적의/NNG
+적적/XR 하/XSA 다/EC
+적적/XR 한/XSA+ETM
+전염/NNG 되/XSV 는/ETM
+전염/NNG 되/XSV 다/EC
+전염병/NNG
+전전긍긍/NNG
+전전긍긍/NNG 하/XSV 다/EC
+절/VV 거나/EC
+절/VV 다/EC
+절/VV 며/EC
+절/VV 면서/EC
+절규/NNG 하/XSV 는/ETM
+절규/NNG 하/XSV 다/EC
+절도질/NNG
+절망/NNG
+절망/NNG 스럽/XSA 다/EC
+절망/NNG 적/XSN 다/EC
+절망/NNG 하/XSV 는/ETM
+절망/NNG 하/XSV 다/EC
+절박/XR 하/XSA 다/EC
+절절매/VV 는/ETM
+절절매/VV 다/EC
+정신병/NNG
+정신없/VA 다/EC
+정신없이/MAG
+제멋대로/MAG
+제한/NNG 되/XSV 거나/EC
+제한/NNG 되/XSV 다/EC
+제한/NNG 된/XSV+ETM
+제한/NNG 적/XSN
+제한/NNG 적/XSN 인/VCP+ETM
+제한/NNG 하/XSV 다/EC
+제한/NNG 한/XSA+ETM
+져서/VV+EC
+졌/VV+EP 다/EC
+조걸위악/NNG
+조걸위악/NNG 하/XSV 다/EC
+조걸위악/NNG 한/XSA+ETM
+조급/NNG
+조급/XR 하/XSA 게/EC
+조급/XR 하/XSA 다/EC
+조급/XR 하/XSA 여/EC
+조급/XR 한/XSA+ETM
+조급/XR 해/XSA+EC 지/VX 고/EC
+조롱/NNG
+조롱/NNG 하/XSV 거나/EC
+조롱/NNG 하/XSV 는/ETM
+조롱/NNG 하/XSV 다/EC
+조롱/NNG 할/XSV+ETM
+조르/VV 거나/EC
+조르/VV 는/ETM
+조르/VV 다/EC
+조마조마/MAG
+조마조마/MAG 하/VV 게/EC
+조마조마/MAG 하/VV 다/EC
+조마조마/MAG 하/VV 여/EC
+조마조마/MAG 함/XSA+ETN
+조마조마한/VA+ETM
+조바심/NNG
+조바심/NNG 하/XSA 며/EC
+조여/VV+EC 듦/UNKNOWN
+조여든/VV+EC+VX+ETM
+조여들/VV 다/EC
+조잡/XR 하/XSA 게/EC
+조잡/XR 하/XSA 다/EC
+조잡/XR 한/XSA+ETM
+족치/VV 는/ETM
+족치/VV 다/EC
+존/NNP 못/NNG
+존망/NNG
+존멸/NNG
+존멸/NNG 하/XSV 는/ETM
+존멸/NNG 하/XSV 다/EC
+졸도/NNG
+좀/MAG 도둑/NNG
+좀/MAG 스러운/XSA+ETM
+좀/MAG 스러워/XSA+EC
+좀/MAG 스럽/XSA 게/EC
+좀/MAG 스럽/XSA 고/EC
+좀/MAG 스럽/XSA 다/EC
+좁/VA 고/EC
+좁/VA 다/EC
+좁/VA 아/EC
+좁/VA 은/ETM
+좁음/NNG
+종기/NNG
+종말/NNG
+종알거리/VV 거나/EC
+좆/NNG
+좆/VV 다/EC
+좆같/VA 다/EC
+좆심/NNG
+좌/NNG 빨/VV+ETM
+좌/NNG 좀/MAG
+좌절/NNG
+좌절/NNG 하/XSV 는/ETM
+좌절/NNG 하/XSV 다/EC
+죄/NNG
+죄/NNG 스러울/XSA+ETM
+죄/NNG 스럽/XSA 다/EC
+죄/VV 어/EC 치/VV 다/EC
+죄/VV 어서/EC
+죄/VV 의/EC
+죄과/NNG
+죄범/NNG
+죄송/XR 하/XSA 다/EC
+죄송/XR 한/XSA+ETM
+죄송/XR 합니다/XSA+EC
+죄송히/MAG
+죄수/NNG
+죄악/NNG
+죄악/NNG 라고/EC
+죄악/NNG 스럽/XSA 다/EC
+죄악/NNG 스레/XSA+EC
+죄악/NNG 인/VCP+ETM
+죄악감/NNG
+죄악관영/NNG
+죄악관영/NNG 하/XSV 는/ETM
+죄악관영/NNG 하/XSV 다/EC
+죄악사/NNG
+죄악상/NNG
+죄악시/NNG
+죄악시/NNG 되/XSV 다/EC
+죄악시/NNG 하/XSV 는/ETM
+죄악시/NNG 하/XSV 다/EC
+죄어들/VV 거나/EC
+죄어들/VV 다/EC
+죄업/NNG
+죄의식/NNG
+죄이/VV 거나/EC
+죄이/VV 다/EC
+죄인/NNG
+죄인/NNG 의/NNG
+죄지/NNG
+죄책감/NNG
+주/NNG 눅/VV 든/EC
+주눅/NNG 드/VV 는/ETM
+주눅/NNG 들/VV 게/EC
+주눅/NNG 들/VV 다/EC
+주의/NNG
+주작/NNG
+주저/NNG 하/XSV 는/ETM
+주저/NNG 하/XSV 다/EC
+주저/NNG 하/XSV 며/EC
+주저앉/VV 거나/EC
+주저앉/VV 는/ETM
+주저앉/VV 다/EC
+주저않/VV 는/ETM
+주저주저/MAG
+주저주저/MAG 하/VV 거나/EC
+주저주저/MAG 하/VV 는/ETM
+주저주저/MAG 하/VV 다/EC
+주저주저/MAG 하/VV 며/EC
+주제넘/VA 게/EC
+주제넘/VA 고/EC
+주제넘/VA 는/ETM
+주제넘/VA 다/EC
+주제넘/VA 은/ETM
+주책/NNG
+주책/NNG 맞/VV 다/EC
+주책없/VA 는/ETM
+주책없/VA 다/EC
+주책없이/MAG
+주체/NNG 스럽/XSA 게/EC
+주체/NNG 스럽/XSA 다/EC
+주춤/MAG
+주춤거리/VV 다/EC
+주춤대/VV 다/EC
+주춤병/NNG
+주춤주춤/MAG
+죽/VV 게/EC
+죽/VV 고/EC
+죽/VV 기/ETN
+죽/VV 는/ETM
+죽/VV 는다/EC
+죽/VV 다/EC
+죽/VV 어서/EC
+죽/VV 었/EP 을/ETM
+죽/VV 은/ETM
+죽/VV 을/ETM 맛/NNG
+죽대/NNG 다/VCP+EC
+죽여서/VV+EC
+죽음/NNG
+죽음/NNG 의/NNG
+죽이/VV 는/ETM
+죽이/VV 다/EC
+죽임/NNG
+줄어들/VV 거나/EC
+중단/NNG
+중단/NNG 하/XSV 다/EC
+중독/NNG
+중병/NNG
+중상/NNG
+중풍/NNG
+증오/NNG
+증오/NNG 하/XSA 다/EC
+증오/NNG 해/XSV+EC
+증오감/NNG
+증오심/NNG
+지/NP
+지/VV 게/EC
+지겨워하/VV 다/EC
+지겹/VA 게/EC
+지겹/VA 다/EC
+지겹/VA 도록/EC
+지경/NNB
+지경/NNG
+지근/NNG 대/XSV 다/EC
+지긋지긋/MAG 하/VV 고/EC
+지긋지긋/MAG 하/VV 다/EC
+지껄이/VV 게/EC
+지껄이/VV 는/ETM
+지껄이/VV 다/EC
+지껄이/VV 며/EC
+지나쳐서/VA+EC
+지나치/VA 거나/EC
+지나치/VA 게/EC
+지나치/VA 는/ETM
+지나치/VA 다/EC
+지나친/VA+ETM
+지나침/VA+ETN
+지다/NNP
+지독/NNG
+지독/NNG 하/XSV 다/EC
+지독/NNG 하/XSV 여/EC
+지독/XR 한/XSA+ETM
+지루/XR
+지루/XR 하/XSA 게/EC
+지루/XR 하/XSA 고/EC
+지루/XR 하/XSA 다/EC
+지루/XR 하/XSA 여/EC
+지루/XR 한/XSA+ETM
+지루/XR 해/XSA+EC 지/VX 다/EC
+지루/XR 해져서/XSA+EC+VX+EC
+지름/NNG
+지옥/NNG
+지저분/XR 하/XSA 게/EC
+지저분/XR 하/XSA 고/EC
+지저분/XR 하/XSA 다/EC
+지저분/XR 한/XSA+ETM
+지적/NNG 받/VV 거나/EC
+지적/NNG 받/VV 다/EC
+지적/NNG 하/XSV 다/EC
+지지/NNG
+지쳐/VV+EC
+지쳐서/VV+EC
+지치/VV 거나/EC
+지치/VV 고/EC
+지치/VV 다/EC
+지치/VV 어/EC
+지친/NNG
+진/VV+ETM 지충/NNG
+진물/NNG
+진물/NNG 따위/NNB
+진저리/NNG
+진절머리/NNG
+진절머리/NNG 나/NP
+진집/NNG
+질/NNG 환의/NNG
+질겁/XR
+질겁/XR 하/XSA 다/EC
+질겁/XR 하/XSV 는/ETM
+질대/NNG 다/VCP+EC
+질리/VV 다/EC
+질림/NNG
+질병/NNG
+질색/NNG
+질색/NNG 하/XSV 다/EC
+질식/NNG 시키/XSV 거나/EC
+질식/NNG 시키/XSV 다/EC
+질식/NNG 시킨/XSV+ETM
+질질/MAG 거리/XSV 는/ETM
+질질/MAG 거리/XSV 다/EC
+질투/NNG
+질투/NNG 하/XSV 는/ETM
+질투/NNG 하/XSV 다/EC
+질투심/NNG
+질환/NNG
+짐/NNG
+짐승/NNG
+집/NNG 적/XSN 집적/NNG
+집/NNG 적/XSN 집적/NNG 하/XSV 다/EC
+집적/NNG 거리/XSV 거나/EC
+집적거려/VV+EC
+짓/NNG 궃/VA 은/ETM
+짓/NNG 궃/VV 게/EC
+짓/NNG 궃/VV 고/EC
+짓/NNG 궃/VV 다/EC
+짓궂/VA 게/EC
+짓궂/VA 다/EC
+짓궂/VA 은/ETM
+짓누르/VV 다/EC
+짓눌러/VV+EC
+짓눌러서/VV+EC
+짓무르/VV 게/EC
+짓무르/VV 고/EC
+짓무르/VV 다/EC
+짓물러/VV+EC
+짓밟/VV 는/ETM
+짓밟/VV 다/EC
+징그러운/VA+ETM
+징그러울/VA+ETM
+징그러움/VA+ETN
+징그럽/VA 다/EC
+징얼/XR 거리/XSV 다/EC
+징얼징얼/MAG
+징얼징얼/MAG 하/VV 다/EC
+징징/MAG 하/VV 다/EC
+징징거리/VV 다/EC
+징징대/VV 다/EC
+짖궂/VA 게/EC
+짖궂/VA 다/EC
+짖궂/VA 은/ETM
+짜/VV 그라/EC 트/VV 리다/EC
+짜르르/MAG 대/VV 다/EC
+짜증/NNG
+짜증/NNG 나/NP
+짜증/NNG 나/VV 다/EC
+짜증/NNG 난/NP+JX
+짜증/NNG 내/VV 다/EC
+짜증/NNG 스럽/XSA 다/EC
+짜지/VV 다/EC
+짜치/NNG
+짠/XR 한/XSA+ETM
+짠하/VA 다/EC
+짤/VV+ETM 뚜룩/MAG 대/VV 는/ETM
+짤/VV+ETM 뚜룩/MAG 대/VV 다/EC
+쩔쩔/MAG 맴/NNG
+쩔쩔매/VV 거나/EC
+쩔쩔매/VV 는/ETM
+쩔쩔매/VV 다/EC
+쩝쩝/MAG 대/VV 다/EC
+쪼/MAG 들려서/VV+EC
+쪼들리/VV 게/EC
+쪼들리/VV 다/EC
+쪼들린/VV+ETM
+쭈그러/VV+EC 듦/UNKNOWN
+쭈그러/VV+EC 져/VX+EC
+쭈그러들/VV 게/EC
+쭈그러들/VV 다/EC
+쭈그렁이/NNG
+쭈글쭈글/MAG
+쭈글쭈글/MAG 한/XSA+ETM
+찌그러/VV+EC 트/VV 리다/EC
+찌그러져/VV+EC
+찌그러지/VV 다/EC
+찌꺼기/NNG
+찌들/VV 고/EC
+찌들/VV 다/EC
+찌들/VV 어서/EC
+찌르/VV 는/ETM
+찌르/VV 다/EC
+찌르/VV 듯이/EC
+찌질이/NNG
+찌푸리/VV 는/ETM
+찐따/NNG
+찔찔/MAG 대/VV 다/EC
+찜찜/NNG 하/XSV 다/EC
+찝쩍/XR 대/XSV 다/EC
+찝찝/XR 하/XSA 다/EC
+찡/MAG 하/VV 다/EC
+찡그리/VV 다/EC
+찡얼대/VV 다/EC
+찡찡/MAG 대/VV 다/EC
+찡찡/MAG 한/XSA+ETM
+찡찡이/NNG
+찢어져/VV+EC
+찢어지/VV 게/EC
+찢어지/VV 는/ETM
+찢어지/VV 다/EC
+찢어진/VV+ETM
+찢어질/VV+ETM
+차/VA 거나/EC
+차/VA 며/EC
+차가운/VA+ETM
+차가움/VA+ETN
+차갑/VA 게/EC
+차갑/VA 다/EC
+차서/NNG
+착잡/XR 하/XSA 거나/EC
+착잡/XR 하/XSA 다/EC
+착잡/XR 한/XSA+ETM
+착취/NNG 하/XSV 여/EC
+찬/VA+ETM
+찮다/UNKNOWN
+참/NNG 형/XSN
+참견/NNG
+참견/NNG 하/XSV 는/ETM
+참견/NNG 하/XSV 다/EC
+참견/NNG 하/XSV 여/EC
+참견/NNG 한/XSV+ETM
+참다못한/VV+ETM
+참다못해/VV+EC
+참담/XR 하/XSA 게/EC
+참담/XR 하/XSA 다/EC
+참담/XR 한/XSA+ETM
+참혹/XR 하/XSA 게/EC
+참혹/XR 하/XSA 기/ETN
+참혹/XR 하/XSA 다/EC
+참혹/XR 하/XSA 여/EC
+참혹/XR 한/XSA+ETM
+참혹/XR 함/XSA+ETN
+창/NNG 렬/UNKNOWN
+창/NNG 렬/UNKNOWN 하/VV 다/EC
+창/NNG 렬스러운/UNKNOWN
+창/NNG 렬한/UNKNOWN
+창녀/NNG
+창백/XR 하/XSA 고/EC
+창백/XR 하/XSA 다/EC
+창백/XR 하/XSA 여/EC 지/VX 고/EC
+창백/XR 한/XSA+ETM
+창피/NNG
+창피/XR 스럽/XSA 다/EC
+창피/XR 스레/XSA+EC
+창피/XR 하/XSA 게/EC
+창피/XR 하/XSA 다/EC
+창피/XR 하/XSA 여/EC
+창피/XR 한/XSA+ETM
+창황/NNG 하/XSV 다/EC
+채신/NNG 없/VA 다/EC
+채신없이/MAG
+책망/NNG
+책망/NNG 하/XSV 거나/EC
+책망/NNG 하/XSV 는/ETM
+책망/NNG 하/XSV 다/EC
+책망/NNG 함/XSV+ETN
+처량/XR 하/XSA 고/EC
+처량/XR 하/XSA 다/EC
+처량히/MAG
+처벌/NNG
+처벌/NNG 하/XSV 다/EC
+처벌/NNG 하/XSV 여/EC
+처연/XR 하/XSA 다/EC
+처절/NNG 하/XSV 다/EC
+처지/NNG
+처지/VV 거나/EC
+처지/VV 게/EC
+처지/VV 다/EC
+처지/VV 도록/EC
+처진/NNP
+처참/XR 하/XSA 게/EC
+처참/XR 하/XSA 다/EC
+처참히/MAG
+천박/NNG
+천박/NNG 하/XSV 게/EC
+천박/NNG 하/XSV 고/EC
+천박/NNG 하/XSV 다/EC
+천박/NNG 한/XSA+ETM
+천식/NNG
+천하/VA 게/EC
+천하/VA 고/EC
+천하/VA 다/EC
+천한/NNG
+철없/VA 게/EC
+철없/VA 는/ETM
+철없/VA 다/EC
+철컹철컹/MAG
+청승/NNG 궂/VA 다/EC
+청승맞/VA 게/EC
+청승맞/VA 다/EC
+체하/VV 다/EC
+체하/VV 면서/EC
+체하/VV 여/EC
+체한/NNG
+쳐/VV+EC 들어가/VV 거나/EC
+쳐들/VV 어/EC 옴/VX+ETN
+쳐들어오/VV 는/ETM
+쳐들어오/VV 다/EC
+쳐부/NNG 수다/NNG
+쳐부수/VV 는/ETM
+초라/XR 하/XSA 고/EC
+초라/XR 하/XSA 다/EC
+초라/XR 한/XSA+ETM
+초라/XR 함/XSA+ETN
+초상/NNG
+초조/NNG
+초조/NNG 하/XSV 게/EC
+초조/NNG 하/XSV 고/EC
+초조/NNG 하/XSV 다/EC
+초조/NNG 해/XSV+EC 지/VX 고/EC
+초조/XR 한/XSA+ETM
+촌스러운/VA+ETM
+촌스럽/VA 게/EC
+촌스럽/VA 고/EC
+촌스럽/VA 다/EC
+촐랑거리/VV 는/ETM
+촐랑거리/VV 며/EC
+촐싹대/VV 다/EC
+최/XPN 악의/NNG
+최악/NNG
+최절/NNG
+최좌/NNG
+추궁/NNG
+추근대/VV 는/ETM
+추근대/VV 다/EC
+추악/NNG 해/XSV+EC 지/VX 다/EC
+추운/VA+ETM
+추워서/VA+EC
+추위/NNG
+추잡/XR 하/XSA 다/EC
+추잡/XR 한/XSA+ETM
+추저분/XR 하/XSA 게/EC
+추저분/XR 하/XSA 다/EC
+추저분/XR 한/XSA+ETM
+추하/VA 고/EC
+추하/VA 다/EC
+추한/NNG
+축내/VV 는/ETM
+축내/VV 다/EC
+축냄/VV+ETN
+출혈/NNG
+출혈/NNG 하/XSV 기/ETN
+춥/VA 거나/EC
+춥/VA 고/EC
+춥/VA 다/EC
+충격/NNG
+충동/NNG
+충동/NNG 적/XSN
+충동/NNG 적/XSN 인/VCP+ETM
+충치/NNG
+취약/NNG 하/XSA 다/EC
+취약/NNG 한/XSA+ETM
+취하/VV 다/EC
+취하/VV 여/EC
+측은/NNG 스럽/XSA 다/EC
+측은/NNG 하/XSV 다/EC
+측은지심/NNG
+치매/NNG
+치미/NNG
+치밀/VV 다/EC
+치밀/VV 어/EC
+치사/XR 하/XSA 게/EC
+치사/XR 하/XSA 고/EC
+치사/XR 하/XSA 다/EC
+치사/XR 하/XSA 여/EC
+치사/XR 한/XSA+ETM
+치욕/NNG
+치욕/NNG 스럽/XSA 다/EC
+치욕/NNG 적/XSN
+치우치/VV 게/EC
+치우치/VV 다/EC
+치우친/VV+ETM
+치통/NNG
+칙칙/XR 하/XSA 게/EC
+칙칙/XR 하/XSA 다/EC
+칙칙/XR 한/XSA+ETM
+칙칙/XR 함/XSA+ETN
+침/NNG 해당/NNG 거나/VCP+EC
+침울/XR 하/XSA 게/EC
+침울/XR 하/XSA 고/EC
+침울/XR 한/XSA+ETM
+침체/NNG 되/XSV 다/EC
+침체/NNG 된/XSV+ETM
+침침/NNG
+침침/NNG 하/XSV 게/EC
+침침/NNG 하/XSV 다/EC
+침침/NNG 해/XSV+EC 지/VX 다/EC
+침침/XR 한/XSA+ETM
+침해/NNG
+침해/NNG 당한/XSV+ETM
+침해/NNG 당할/XSV+JKO
+침해/NNG 당함/XSV+ETN
+침해/NNG 하/XSV 다/EC
+침해/NNG 한/XSV+ETM
+침해/NNG 함/XSV+ETN
+칼/NNG 빵/NNG
+캄캄/MAG 하/VV 게/EC
+캄캄/MAG 하/VV 다/EC
+캄캄/XR 한/XSA+ETM
+커녕/MAG
+컴컴/XR 하/XSA 다/EC
+켕기/VV 고/EC
+켕기/VV 는/ETM
+켕기/VV 다/EC
+코/NNG 고/VV 는/ETM
+코/NNG 골/VV 다/EC
+코로나/NNP
+콜록콜록/MAG
+콜록콜록/MAG 하/VV 는/ETM
+콧웃음치는/UNKNOWN
+콧웃음치다/UNKNOWN
+쿨룩/MAG 대/VV 다/EC
+쿨룽/NNG 대/XSV 다/EC
+타/VV 는/ETM
+타/VV 다/EC
+타/VV 서/EC
+타들/VV 어/EC
+타박상/NNG
+타분/NNG 하/XSV 게/EC
+타분/NNG 하/XSV 다/EC
+타분/NNG 한/XSA+ETM
+탁하/VA 다/EC
+탄/NNG 스러운/XSA+ETM
+탄/NNG 스러울/XSA+ETM
+탄식/NNG
+탄식/NNG 하/XSV 다/EC
+탄식/NNG 하/XSV 여/EC
+탄식/NNG 할/XSV+ETM
+탄식/NNG 함/XSV+ETN
+탈영/NNG
+탈음증/NNG
+탈이/NNG
+탈진/NNG
+탈진/NNG 하/XSA 다/EC
+탈출증/NNP
+탐/NNG 하/XSV 는/ETM
+탐/NNG 하/XSV 다/EC
+탐/NNG 하/XSV 여/EC
+탐/NNG 한/XSA+ETM
+탐관오리/NNG
+탐내/VV 거나/EC
+탐내/VV 는/ETM
+탐내/VV 다/EC
+탐내/VV 어/EC
+탐묵/NNG
+탐묵/NNG 하/XSV 다/EC
+탐욕/NNG
+탐욕/NNG 스러운/XSA+ETM
+탐욕/NNG 스러워/XSA+EC
+탐욕/NNG 스럽/XSA 게/EC
+탐욕/NNG 스럽/XSA 다/EC
+탓/NNG 하/XSV 거나/EC
+탓/NNG 하/XSV 는/ETM
+탓/NNG 하/XSV 다/EC
+탓/NNG 한/XSA+ETM
+태/VV 움/EC
+태업/NNG
+태우/VV 다/EC
+태우/VV 며/EC
+터무니없/VA 거나/EC
+터무니없/VA 게/EC
+터무니없/VA 는/ETM
+터무니없/VA 다/EC
+터무니없이/MAG
+텁텁/XR 하/XSA 게/EC
+텁텁/XR 하/XSA 다/EC
+텁텁/XR 하/XSA 여/EC
+텁텁/XR 한/XSA+ETM
+토/NNG 달/NNG 거리/XSV 다/EC
+토끼/VV 다/EC
+토달/VV 거리/EC
+토달/VV 다/EC
+토라져/VV+EC
+토라져서/VV+EC
+토라지/VV 는/ETM
+토라지/VV 다/EC
+토라진/VV+ETM
+토역질/NNG 하/XSV 다/EC
+토하/NNG
+토하/VV 고/EC
+토하/VV 다/EC
+토하/VV 려고/EC
+토하/VV 며/EC
+토할/VV+ETM
+톨톨/MAG 대/VV 는/ETM
+톨톨/MAG 대/VV 다/EC
+통증/NNG
+통탄/NNG 하/XSV 다/EC
+투덜거리/VV 는/ETM
+투덜거리/VV 다/EC
+투덜거림/VV+ETN
+투덜대/VV 는/ETM
+투덜대/VV 다/EC
+투박/XR 하/XSA 게/EC
+투박/XR 하/XSA 다/EC
+투박/XR 한/XSA+ETM
+퉁명/NNG 스러운/XSA+ETM
+퉁명/NNG 스럽/XSA 게/EC
+퉁명/NNG 스럽/XSA 다/EC
+트롤/NNG
+트집/NNG
+틀/NNG 딱/MAG
+틀/NNG 딱/MAG 충/NNG
+틀리/VA 거나/EC
+틀리/VA 게/EC
+틀리/VA 다/EC
+틀린/VV+ETM
+틀어져서/VV+EC
+틀어지/VV 게/EC
+틀어지/VV 다/EC
+틀어진/VV+ETM
+틀어짐/NNG
+티격태격/MAG 하/VV 는/ETM
+티격태격/MAG 하/VV 다/EC
+티격태격/MAG 한/XSA+ETM
+파괴/NNG
+파괴/NNG 되/XSV 다/EC
+파괴/NNG 되/XSV 어/EC
+파괴/NNG 된/XSV+ETM
+파괴/NNG 하/XSV 다/EC
+파괴/NNG 하/XSV 여/EC
+파괴/NNG 행위/NNG
+파울/NNP
+파출/NNG 하/XSV 게/EC
+파출/NNG 하/XSV 다/EC
+파출/NNG 한/XSA+ETM
+패/NNG 하/XSV 고/EC
+패/NNG 하/XSV 다/EC
+패가망신/NNG
+패가망신/NNG 하/XSV 는/ETM
+패가망신/NNG 한다는/XSV+ETM
+패배/NNG
+패배/NNG 하/XSV 다/EC
+팬데믹/NNG
+팽개치/VV 다/EC
+페널티/UNKNOWN
+편견/NNG
+편두통/NNG
+편애/NNG
+편애/NNG 하/XSV 는/ETM
+편애/NNG 하/XSV 다/EC
+폐/NNG
+폐결핵/NNG
+폐렴/NNG
+포기/NNG
+포기/NNG 하/XSV 게/EC
+포기/NNG 하/XSV 고/EC
+포기/NNG 하/XSV 다/EC
+포살/NNG 되/XSV 다/EC
+포악/NNG 하/XSA 게/EC
+포악/NNG 하/XSA 다/EC
+포악/NNG 하/XSA 며/EC
+포악/NNG 한/XSA+ETM
+포학/NNG 한/XSA+ETM
+폭군/NNG
+폭력/NNG
+폭력/NNG 적/XSN
+폭행/NNG
+폭행/NNG 하/XSV 다/EC
+표리부동/NNG 하/XSV 게/EC
+표리부동/NNG 하/XSV 다/EC
+표리부동/NNG 한/XSA+ETM
+푸념/NNG
+품귀/NNG
+풍자/NNG
+풍자/NNG 하/XSV 였/EP 다/EC
+피/NNG
+피/NNG 꺼/VV+EC 솟/NNG
+피고름/NNG
+피곤/NNG
+피곤/NNG 하/XSA 거나/EC
+피곤/NNG 하/XSA 다/EC
+피곤/NNG 한/XSA+ETM
+피곤/NNG 함/XSA+ETN
+피난/NNG
+피난/NNG 함/XSV+ETN
+피눈물/NNG
+피로/NNG
+피로/NNG 하/XSA 여/EC
+피로감/NNG
+피부병/NNG
+피부염/NNG
+피핍/NNG 하/XSV 다/EC
+피하/VV 는/ETM
+피하/VV 다/EC
+피해/NNG
+핀잔/NNG
+하소연/NNG 하/XSV 는/ETM
+하소연/NNG 하/XSV 다/EC
+하소연/NNP
+하잘것없/VA 다/EC
+하찮/VA 게/EC
+하찮/VA 고/EC
+하찮/VA 다/EC
+하찮/VA 은/ETM
+학대/NNG
+학대/NNG 받/VV 는/ETM
+학대/NNG 받/VV 다/EC
+학대/NNG 하/XSV 는/ETM
+학대/NNG 하/XSV 다/EC
+한/NNG 되/VV 는/ETM
+한/NNG 되/VV 다/EC
+한/NNG 스러운/XSA+ETM
+한/NNG 스럽/XSA 게/EC
+한/NNG 스럽/XSA 다/EC
+한계/NNG
+한숨/NNG
+한숨/NNG 짓/VV 다/EC
+한심/XR 하/XSA 다/EC
+한심/XR 한/XSA+ETM
+한탄/NNG
+한탄/NNG 하/XSV 다/EC
+한탄/NNG 하/XSV 여/EC
+한탄/NNG 함/XSV+ETN
+한탄스럽/VA 다/EC
+한탄스레/MAG
+할/VV+ETM 딱/MAG 대/VV 다/EC
+함부/NNG
+함정/NNG
+항거/NNG
+항거/NNG 하/XSV 는/ETM
+항거/NNG 하/XSV 다/EC
+항의/NNG 하/XSV 는/ETM
+항의/NNG 하/XSV 다/EC
+항의/NNG 하/XSV 여/EC
+해/NNG 끼치/VV 는/ETM
+해/NNG 끼치/VV 다/EC
+해/NNG 끼침/VV+ETN
+해/NNG 되/VV 는/ETM
+해/NNG 되/VV 다/EC
+해/NNG 될까/VV+EC
+해/NNG 롭/XSA 게/EC
+해/NNG 롭/XSA 다/EC
+해/NNG 받/VV 다/EC
+해/NNG 입/VV 다/EC
+해/NNG 입음/NNG
+해/VV+EC 지/VX 거나/EC
+해/VV+EC 지/VX 고/EC
+해/VV+EC 지/VX 다/EC
+해/VV+EC 지/VX 어/EC
+해고/NNG 하/XSV 다/EC
+해괴/XR 하/XSA 다/EC
+해로운/VA+ETM
+해로움/VA+ETN
+해롱대/VV 는/ETM
+해롱대/VV 다/EC
+해어져서/VV+EC
+해어지/VV 게/EC
+해쳐서/VV+EC
+해치/NNG
+해치/VV 거나/EC
+해치/VV 다/EC
+해치/VV 려고/EC
+해치/VV 려다가/EC
+해칠/VV+ETM
+해침/NNG
+행방불명/NNG 되/XSV 다/EC
+행방불명/NNG 된/XSV+ETM
+허/NNG 찮게/XSA+EC+VX+EC
+허/NNG 찮은/XSA+EC+VX+ETM
+허/VV 는/ETM
+허덕이/VV 게/EC
+허덕이/VV 는/ETM
+허덕이/VV 다/EC
+허둥거리/VV 는/ETM
+허둥거리/VV 다/EC
+허둥거리/VV 며/EC
+허둥대/VV 어/EC
+허둥지둥/MAG 하/VV 는/ETM
+허둥지둥/MAG 하/VV 다/EC
+허랑방탕/XR 한/XSA+ETM
+허름/XR 하/XSA 고/EC
+허망/XR 하/XSA 게/EC
+허망/XR 하/XSA 다/EC
+허망/XR 한/XSA+ETM
+허무/NNG
+허무/NNG 하/XSA 게/EC
+허무/NNG 하/XSA 다/EC
+허무/NNG 한/XSA+ETM
+허무감/NNG
+허물/NNG
+허병/NNG
+허비/NNG 하/XSV 는/ETM
+허비/NNG 하/XSV 다/EC
+허사/NNG
+허세/NNG
+허술/XR 하/XSA 다/EC
+허술/XR 하/XSA 여서/EC
+허술/XR 한/XSA+ETM
+허약/NNG
+허약/NNG 하/XSA 다/EC
+허약/NNG 하/XSA 여/EC
+허약/NNG 하/XSA 여져서/EC+VX+EC
+허약/NNG 하/XSA 여진/EC+VX+ETM
+허약/NNG 한/XSA+ETM
+허약/NNG 할/XSV+ETM
+허약/NNG 해/XSV+EC 지/VX 다/EC
+허약/NNG 해져서/XSA+EC+VX+EC
+허약/NNG 해진/XSA+EC+VX+ETM
+허전/XR 하/XSA 거나/EC
+허전/XR 하/XSA 게/EC
+허전/XR 하/XSA 고/EC
+허전/XR 하/XSA 다/EC
+허전/XR 한/XSA+ETM
+허접/NNG
+허접/NNG 하/XSV 다/EC
+허접/XR 스럽/XSA 다/EC
+허접쓰레기/NNG
+허탕/NNG
+허탕/NNG 하/XSV 다/EC
+허풍/NNG
+허하/VA 게/EC
+허하/VA 다/EC
+허하/VA 여/EC
+허황/XR 된/XSV+ETM
+허황/XR 하/XSA 고/EC
+허황/XR 하/XSA 며/EC
+허황/XR 한/XSA+ETM
+허황되/VA 게/EC
+허황되/VA 다/EC
+헉헉대/VV 는/ETM
+헉헉대/VV 다/EC
+헌데/NNG
+헐/VV 거나/EC
+헐/VV 게/EC
+헐/VV 고/EC
+헐/VV 다/EC
+헐/VV 어/EC 지/VX 거나/EC
+헐/VV 어/EC 지/VX 는/ETM
+헐/VV 어서/EC
+헐/VV 었/EP 거나/EC
+헐/VV 은/ETM
+헐거워/VA+EC 서/VV+EC
+헐겁/VA 고/EC
+헐뜯/VV 거나/EC
+헐뜯/VV 게/EC
+헐뜯/VV 고/EC
+헐뜯/VV 기/ETN
+헐뜯/VV 는/ETM
+헐뜯/VV 는다/EC
+헐뜯/VV 다/EC
+헐뜯/VV 어/EC
+헐뜯/VV 어/EC 말/NNG 하/XSV 는/ETM
+헐뜯/VV 어서/EC
+헐뜯/VV 으려고/EC
+헐뜯/VV 음/ETN
+헐려서/VV+EC
+험상/NNG 하/XSV 고/EC
+험상/XR 스럽/XSA 다/EC
+험상궂/VA 게/EC
+험상궂/VA 고/EC
+험상궂/VA 은/ETM
+험상궃/VA 게/EC
+험상궃/VA 다/EC
+험상궃/VA 은/ETM
+험하/VA 게/EC
+험하/VA 고/EC
+험하/VA 다/EC
+험하/VA 여/EC
+험한/VA+ETM
+헛갈리/VV 다/EC
+헛되이/MAG
+헛된/VA+ETM
+헛디디/VV 거나/EC
+헛디디/VV 는/ETM
+헛디디/VV 다/EC
+헛소리/NNG
+헛헛/XR 한/XSA+ETM
+헝클어져/VV+EC
+헝클어지/VV 거나/EC
+헝클어지/VV 다/EC
+헝클어진/VV+ETM
+헤매/VV 게/EC
+헤매/VV 는/ETM
+헤매/VV 다/EC
+헤어지/VV 게/EC
+헤어지/VV 다/EC
+헤프/VA 게/EC
+헤프/VA 다/EC
+헷갈리/VV 다/EC
+헷갈리/VV 어/EC
+현기증/NNG
+현시창/NNG
+현피/NNG
+혈압/NNG
+혐오/NNG
+혐오/NNG 스럽/XSA 다/EC
+혐오/NNG 하/XSA 다/EC
+혐오감/NNG
+혐오증/NNG
+혐짤/UNKNOWN
+협박/NNG
+협박/NNG 하/XSV 다/EC
+협박장/NNG
+형벌/NNG
+형벌/NNG 의/NNG
+형벌/NNG 하/XSV 는/ETM
+형편없/VA 게/EC
+형편없/VA 는/ETM
+형편없/VA 다/EC
+호되/VA 게/EC
+호된/VA+ETM
+호들갑/NNG
+호들갑/NNG 스럽/XSA 게/EC
+호들갑/NNG 스럽/XSA 다/EC
+호소/NNG
+호소/NNG 하/XSV 는/ETM
+호소/NNG 하/XSV 다/EC
+호흡곤란/NNG
+혼/NNG 나/NP
+혼/NNG 나/VV 서/EC
+혼/NNG 내/NP
+혼란/NNG
+혼란/NNG 스러운/XSA+ETM
+혼란/NNG 스럽/XSA 게/EC
+혼란/NNG 스럽/XSA 고/EC
+혼란/NNG 스럽/XSA 다/EC
+혼란/NNG 하/XSA 게/EC
+혼모/NNG 노/NNP
+혼미/NNG 하/XSA 다/EC
+혼미/NNG 하/XSA 여/EC 지/VX 는/ETM
+혼미/NNG 한/XSA+ETM
+혼미/NNG 해/XSV+EC 지/VX 고/EC
+혼미/NNG 해/XSV+EC 지/VX 는/ETM
+혼미/NNG 해/XSV+EC 지/VX 다/EC
+혼쭐/NNG
+홀린/NNP
+화/NNG
+화가/NNG
+화기/NNG
+화나/VV 게/EC
+화나/VV 고/EC
+화나/VV 다/EC
+화나/VV+EC
+화내/VV 다/EC
+화재/NNG
+화증/NNG
+화풀이/NNG
+환각/NNG
+환자/NNG
+환처/NNG
+황당/XR 하/XSA 게/EC
+황당/XR 하/XSA 다/EC
+황당/XR 한/XSA+ETM
+황천길/NNG
+황폐/NNG 화/XSN
+황폐화/NNG
+회피/NNG 하/XSV 는/ETM
+회피/NNG 하/XSV 다/EC
+회피/NNG 하/XSV 려고/EC
+횡령/NNG
+후회/NNG
+후회/NNG 스럽/XSA 다/EC
+후회/NNG 하/XSA 다/EC
+후회/NNG 하/XSA 여도/EC
+후회/NNG 하/XSV 는/ETM
+후회막심/NNG 하/XSV 다/EC
+후회막심/NNG 한/XSA+ETM
+훔쳐/VV+EC
+훔치/VV 거나/EC
+훔치/VV 는/ETM
+훔치/VV 다/EC
+훔치/VV 려고/EC
+훔친다/VV+EC
+훔친다는/VV+ETM
+훔침/UNKNOWN
+훼방/NNG
+훼방/NNG 하/XSV 거나/EC
+훼방/NNG 하/XSV 다/EC
+훼손/NNG
+훼손/NNG 하/XSV 다/EC
+휘청거리/VV 는/ETM
+휘청거리/VV 다/EC
+휘청거리/VV 며/EC
+휩쓸리/VV 는/ETM
+휩쓸리/VV 다/EC
+휭/MAG 하/VV 니/EC
+흉/NNG 망/XR 스레/XSA+EC
+흉괴/NNG 하/XSV 다/EC
+흉년/NNG
+흉망스럽/VA 게/EC
+흉망스럽/VA 다/EC
+흉몽/NNG
+흉물/NNG
+흉물/NNG 스럽/XSA 다/EC
+흉물/NNG 스레/XSA+EC
+흉보/NNG
+흉악/NNG
+흉악/XR 하/XSA 게/EC
+흉악/XR 하/XSA 고/EC
+흉악/XR 하/XSA 다/EC
+흉악/XR 한/XSA+ETM
+흉악/XR 함/XSA+ETN
+흉악망측/NNG
+흉악망측/NNG 스럽/XSA 게/EC
+흉악망측/NNG 스럽/XSA 다/EC
+흉악망측/NNG 스레/XSA+EC
+흉악망측/NNG 하/XSV 다/EC
+흉악무도/NNG
+흉악무도/NNG 하/XSV 다/EC
+흉악무도/NNG 한/XSA+ETM
+흉악범/NNG
+흉악성/NNG
+흉악히/MAG
+흉측/NNG
+흉측/NNG 하/XSV 거나/EC
+흉측/NNG 하/XSV 다/EC
+흉측/XR 스럽/XSA 게/EC
+흉측/XR 스럽/XSA 다/EC
+흉측/XR 스레/XSA+EC
+흉측히/MAG
+흉터/NNG
+흉포성/NNG
+흉하/VA 거나/EC
+흉하/VA 게/EC
+흉하/VA 고/EC
+흉하/VA 다/EC
+흉하/VA 다고/EC
+흉한/NNG
+흉할/VA+ETM
+흉흉/XR 하/XSA 게/EC
+흉흉히/MAG
+흐느껴/VV+EC
+흐느끼/VV 는/ETM
+흐느낄/VV+ETM
+흐느낌/NNG
+흐느적흐느적/MAG
+흐려/VA+EC 지/VX 고/EC
+흐려/VA+EC 지/VX 다/EC
+흐려서/VA+EC
+흐려져/VA+EC+VX+EC
+흐려진/VA+EC+VX+ETM
+흐려진다/VA+EC+VX+EF
+흐리/VA 게/EC
+흐리/VA 고/EC
+흐리/VA 다/EC
+흐리멍덩/XR
+흐리멍덩/XR 하/XSA 게/EC
+흐리멍덩/XR 하/XSA 다/EC
+흐리멍덩/XR 하/XSA 며/EC
+흐리멍덩/XR 하/XSA 여/EC
+흐리멍덩/XR 한/XSA+ETM
+흐리멍텅/MAG
+흐리멍텅/XR 하/XSA 게/EC
+흐리멍텅/XR 한/XSA+ETM
+흐린/VA+ETM
+흐림/VA+ETN
+흐릿/XR 하/XSA 여/EC
+흐지부지/MAG
+흐지부지/MAG 하/VV 게/EC
+흐지부지/MAG 하/VV 다/EC
+흐트러져/VV+EC
+흐트러지/VV 고/EC
+흐트러지/VV 다/EC
+흑흑/MAG
+흑흑/MAG 대/VV 다/EC
+흔들리/VV 거나/EC
+흔들리/VV 는/ETM
+흔들리/VV 다/EC
+흘겨보/VV 는/ETM
+흘겨보/VV 다/EC
+흘리/VV 다/EC
+흘흘/MAG
+흙빛/NNG
+흠/NNG
+흠좀무/NNG
+흥뚱항뚱/MAG
+흥분/NNG 하/XSV 는/ETM
+흥분/NNG 하/XSV 다/EC
+흥청/NNG
+흥청거리/VV 다/EC
+흥청대/VV 는/ETM
+흥청대/VV 다/EC
+흥청망청/MAG
+흥청망청/MAG 하/VV 다/EC
+흥청벙청/MAG
+흥청흥청/MAG
+흥청흥청/MAG 하/VV 다/EC
+희/NNG 룽/NNG 거리/XSV 다/EC
+희/NNG 룽/NNG 대/XSV 다/EC
+희떠운/VA+ETM
+희떱/VA 게/EC
+희롱/NNG 하/XSV 다/EC
+희롱/NNG 해/XSV+EC 롱/NNG
+희롱/NNG 해/XSV+EC 롱/NNG 하/XSV 다/EC
+희롱/NNG 희롱/NNG
+희롱/NNG 희롱/NNG 하/XSV 다/EC
+희룽해롱/MAG
+희룽해롱/MAG 하/VV 다/EC
+희룽희룽/MAG
+희룽희룽/MAG 하/VV 다/EC
+희룽히룽/MAG
+희망/NNG 없/VA 게/EC
+희망/NNG 없/VA 는/ETM
+희망/NNG 없/VA 다/EC
+희미/XR
+희미/XR 하/XSA 게/EC
+희미/XR 하/XSA 고/EC
+희미/XR 하/XSA 다/EC
+희미/XR 한/XSA+ETM
+희미/XR 해져서/XSA+EC+VX+EC
+희박/XR 하/XSA 다/EC
+희희/MAG 대/VV 다/EC
+희희/NNG 거리/XSV 다/EC
+희희덕/MAG
+희희덕/MAG 희희덕/MAG
+희희덕/MAG 희희덕/MAG 하/VV 다/EC
+힁하/VA 다/EC
+히/MAG 뜰/VV+ETM 뜰/NNG 하/XSV 다/EC
+히/MAG 뜰/VV+ETM 머/NP 뜰/VV+ETM
+히/NNG 살/NNG 스럽/XSA 다/EC
+히들/XR 머들/NNG
+히들/XR 머들/NNG 하/XSV 다/EC
+히스테리/NNG
+히죽/MAG 비죽/NNG
+히죽/MAG 비죽/NNG 하/XSV 다/EC
+힐난/NNG
+힐난/NNG 하/XSV 다/EC
+힐난조/NNG
+힘/NNG 겨/NNG 웁/VA 게/EC
+힘/NNG 겨/NNG 웁/VA 다/EC
+힘/NNG 겨워/VA+EC
+힘/NNG 겹/VV 거나/EC
+힘/NNG 겹/VV 게/EC
+힘/NNG 겹/VV 다/EC
+힘/NNG 듦/UNKNOWN
+힘/NNG 삐치/VV 다/EC
+힘/NNG 없/VA 게/EC
+힘/NNG 없/VA 는/ETM
+힘/NNG 없/VA 다/EC
+힘겨운/VA+ETM
+힘겹/VA 게/EC
+힘겹/VA 다/EC
+힘든/VA+ETM
+힘들/VA 거나/EC
+힘들/VA 게/EC
+힘들/VA 다/EC
+힘들/VA 어/EC 지/VX 고/EC
+힘들/VA 어/EC 지/VX 다/EC
+힘들/VA 여/EC
+힘들/VA+ETM
+힘없이/MAG
