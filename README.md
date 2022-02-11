@@ -1,4 +1,4 @@
-# 👉🏻 sentiment frequency analysis
+# 👉🏻 감성 빈도 분석
 
 <br>
 <br>
