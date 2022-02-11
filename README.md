@@ -16,6 +16,7 @@ trie tree 구조를 활용하여 긍부정 빈도 labeling 작업
 ### **- how to use**
 <br>
 sudo docker build --tag sentiment .
+<br>
 sudo docker run -d -it --cpus=1 --restart always --name sentiment sentiment
 
 <br>
